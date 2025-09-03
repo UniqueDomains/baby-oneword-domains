@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BABY one-word domains still available to buy.
 
-This dataset contains 3,820 .BABY one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,854 .BABY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BABY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=baby-oneword-domains&utm_content=description.top) (3,587) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.BABY one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/baby-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.csv"><b>⬇️ CSV (3.82K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.json"><b>⬇️ JSON (3.82K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.csv"><b>⬇️ CSV (3.85K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.json"><b>⬇️ JSON (3.85K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=baby-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.59K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -50,12 +50,12 @@ If you want to search & filters the complete database of [.BABY one word domains
 | ablated.baby    | available | 52       | 2%     | 7      |           |         |         |
 | ablative.baby   | available | 68       | 3%     | 8      |           |         |         |
 | ablaze.baby     | available | 72       | 6%     | 6      |           |         |         |
-| able.baby       | available | 80       | 29%    | 4      |           |         |         |
+| able.baby       | available | 80       | 32%    | 4      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/baby-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.csv"><b>⬇️ CSV (3.82K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.json"><b>⬇️ JSON (3.82K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.csv"><b>⬇️ CSV (3.85K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.json"><b>⬇️ JSON (3.85K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=baby-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.59K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BABY one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 21,003       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 47,901       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,209,980    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -103,7 +102,6 @@ If you want to search & filters the complete database of [.BABY one word domains
 | .ADULT         | 3,941        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
 | .AG            | 3,662        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 2,841        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
-| .AI            | 53,618       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
 | .AIRFORCE      | 3,989        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
 | .APARTMENTS    | 3,897        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
 | .APP           | 56,586       | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
