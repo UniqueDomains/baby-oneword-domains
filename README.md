@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BABY one-word domains still available to buy.
 
-This dataset contains 4,337 .BABY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,334 .BABY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BABY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=baby-oneword-domains&utm_content=description.top) (4,337) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.BABY one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/baby-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.csv"><b>⬇️ CSV (4.34K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.json"><b>⬇️ JSON (4.34K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=baby-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.34K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BABY one word domains
 | aaron.baby      | available | 88       | 32%    | 5      |                       |                  |                  |
 | abactinal.baby  | available | 50       | 1%     | 9      |                       |                  |                  |
 | abaft.baby      | available | 43       | 2%     | 5      |                       |                  |                  |
-| abandoned.baby  | available | 58       | 10%    | 9      |                       |                  |                  |
+| abandoned.baby  | available | 58       | 7%     | 9      |                       |                  |                  |
 | abashed.baby    | available | 60       | 2%     | 7      |                       |                  |                  |
 | abasic.baby     | available | 54       | 2%     | 6      |                       |                  |                  |
 | abatable.baby   | available | 54       | 1%     | 8      |                       |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.BABY one word domains
 | abbatial.baby   | available | 50       | 1%     | 8      |                       |                  |                  |
 | abc.baby        | resell    | 102      | 41%    | 3      | Network Solutions LLC | 04/02/2024 23:49 | 04/02/2026 23:59 |
 | abdicable.baby  | available | 50       | 1%     | 9      |                       |                  |                  |
-| abdominal.baby  | available | 82       | 1%     | 9      |                       |                  |                  |
+| abdominal.baby  | available | 82       | 5%     | 9      |                       |                  |                  |
 | abdominous.baby | available | 56       | 1%     | 10     |                       |                  |                  |
 | abducens.baby   | available | 54       | 1%     | 8      |                       |                  |                  |
 | abducent.baby   | available | 68       | 1%     | 8      |                       |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.BABY one word domains
 | aberdonian.baby | available | 68       | 1%     | 10     |                       |                  |                  |
 | aberrant.baby   | available | 74       | 7%     | 8      |                       |                  |                  |
 | abeyant.baby    | available | 56       | 2%     | 7      |                       |                  |                  |
-| abhorrent.baby  | available | 54       | 1%     | 9      |                       |                  |                  |
+| abhorrent.baby  | available | 54       | 3%     | 9      |                       |                  |                  |
 | abiding.baby    | available | 106      | 5%     | 7      |                       |                  |                  |
 | abient.baby     | available | 54       | 1%     | 6      |                       |                  |                  |
 | ability.baby    | available | 92       | 18%    | 7      |                       |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.BABY one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/baby-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.csv"><b>⬇️ CSV (4.34K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.json"><b>⬇️ JSON (4.34K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/baby-oneword-domains/blob/main/baby.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=baby-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.34K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BABY one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
