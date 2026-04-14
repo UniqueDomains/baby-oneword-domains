@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .baby one-word domains from Unique
 
 **Public extract:** 8,615 rows · **Live catalog:** 8,615 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/baby`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | odd.baby        | resell    | $29.99    | $94.99        | 72             | 32     | 3      | Dynadot LLC                                         |
 | line.baby       | premium   | $650      | $65           | 74             | 65     | 4      | namecheap                                           |
 | nationwide.baby | available | $29.99    | $94.99        | 76             | 66     | 10     | name.com                                            |
-| force.baby      | resell    | $81.98    | —             | 72             | 26     | 5      | Go Daddy, LLC                                       |
+| force.baby      | resell    | $81.98    | —             | 72             | 27     | 5      | Go Daddy, LLC                                       |
 | ace.baby        | premium   | $3,125    | $94.99        | 88             | 57     | 3      | name.com                                            |
 | seventeen.baby  | available | $29.99    | $94.99        | 84             | 62     | 9      | name.com                                            |
 | whole.baby      | resell    | $29.99    | $94.99        | 104            | 20     | 5      | Dynadot LLC                                         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
