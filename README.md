@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .baby one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,449 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,449 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,449 domains · **Median ask:** $51.60 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/baby`  
 **Best for:** founders, investors, studios
 
@@ -75,15 +75,15 @@ print(df.head())
 | suits.baby        | premium   | $250      | —             | 61             | 13     | 5      | name.com                                     |
 | popup.baby        | available | $29.99    | —             | 84             | 29     | 6      | name.com                                     |
 | spectra.baby      | resell    | —         | —             | 62             | 34     | 7      | Dynadot LLC                                  |
+| status.baby       | premium   | —         | —             | 76             | 40     | 6      | —                                            |
 | dogs.baby         | available | $29.99    | —             | 76             | 28     | 4      | name.com                                     |
 | toy.baby          | resell    | —         | —             | 76             | 28     | 3      | Dynadot LLC                                  |
+| hill.baby         | premium   | —         | —             | 66             | 25     | 4      | —                                            |
 | commonground.baby | available | $29.99    | —             | 74             | 28     | 13     | name.com                                     |
 | jazz.baby         | resell    | —         | —             | 72             | 28     | 4      | Spaceship, Inc.                              |
 | pages.baby        | available | $29.99    | —             | 52             | 28     | 5      | name.com                                     |
 | Bets.baby         | resell    | —         | —             | 72             | 27     | 4      | Spaceship, Inc.                              |
 | trades.baby       | available | $17.99    | $54.99        | 71             | 26     | 6      | namesilo                                     |
-| treeoflife.baby   | resell    | —         | —             | 88             | 21     | 12     | Go Daddy, LLC                                |
-| comics.baby       | available | $29.99    | —             | 68             | 24     | 6      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,449 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,449 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .baby domains, which makes it useful for buyers comparing exact-word clarity against extension fit. The set ranges from concrete words like floor.baby and mill.baby to broader terms like discuss.baby and correlate.baby, plus geographic or commercial words such as canada.baby and ticket.baby. With a median ask of 51.60, price is accessible at the middle of the list, but the stronger names still depend on how naturally the word pairs with .baby. When comparing these domains, focus on memorability, direct relevance to baby products or parenting, and whether the word creates trust rather than confusion or negative tone.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that pair naturally with the .baby extension
+- Check for clear meaning, spelling ease, and recall
+- Watch for weak or negative terms like shame.baby
+- Use price discipline around the 51.60 median ask
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
