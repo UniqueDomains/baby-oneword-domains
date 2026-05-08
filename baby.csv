@@ -80,6 +80,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 06544d56-1bd3-45d3-b3e1-af1975a5800b,inmyview.baby,available,29.99,,48,2,10,name.com,,
 0660f77e-55a8-46d5-b241-42d1397e4e0c,adds.baby,available,29.99,,56,9,4,name.com,,
 06723479-e23f-4254-baff-51112a32e245,insofaras.baby,available,29.99,,56,0,12,name.com,,
+0680a8a5-dbc6-4bdb-a665-25ad0cebf9f8,wife.baby,premium,,,90,18,4,,,
 06b7b9cc-c3b9-4c30-8d05-3ecd610c1b23,pegs.baby,available,17.99,54.99,48,8,4,namesilo,,
 06c5d61c-2941-4d53-8a16-d2d2a03f98a7,goballistic.baby,available,29.99,,68,2,12,name.com,,
 06deb7ec-171f-47d4-ae51-48004d3173e3,cans.baby,available,17.99,54.99,56,10,4,namesilo,,
@@ -338,6 +339,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1d9d988a-ac3b-4f2e-a550-f8b7d3cfc6bc,lens.baby,resell,,,62,69,4,"Spaceship, Inc.",17/02/2026 14:15,17/02/2027 23:59
 1dd1bc6f-b533-4071-8371-414f33261d2e,chickenstrips.baby,available,29.99,,74,2,14,name.com,,
 1dd7935c-fa0f-41a1-be1c-18812d4eb2f6,havetheupperhand.baby,available,29.99,,46,1,19,name.com,,
+1df793e4-755e-4399-b7d5-4cd84b8aabd6,laundry.baby,premium,,,72,23,7,,,
 1e06a9dd-c1e8-4f1f-90a7-c7eb4635bc25,paced.baby,available,29.99,,49,5,5,name.com,,
 1e22b37a-8a48-4601-b2cf-f2eb129c6fc1,wouldof.baby,available,17.99,54.99,55,1,8,namesilo,,
 1e3e64e0-aba8-4efa-9171-e47bf5985f72,disks.baby,available,29.99,,50,6,5,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a30566c-7990-41b7-adad-4d20cfa27a79,justthen.baby,available,29.99,,62,1,9,name.com,,
 5a4a174f-08f5-4c8a-9a01-cd997698cf3d,makeupartist.baby,available,29.99,,76,5,13,name.com,,
 5a572f51-1c13-4e9e-b997-02c13a4eb92a,cometogrips.baby,available,29.99,,62,1,13,name.com,,
-5a6814b2-9a59-4c83-a42c-876cdeda546f,pricetosell.baby,available,29.99,,64,1,13,name.com,,
-5a856509-f184-44f7-85f3-451733d32932,breasts.baby,available,29.99,,50,9,7,name.com,,
