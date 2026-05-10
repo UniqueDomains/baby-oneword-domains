@@ -93,6 +93,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0757ad3f-fb72-4a0b-84ce-608072841bea,reps.baby,available,17.99,54.99,73,16,4,namesilo,,
 07632347-0583-40b9-a9e0-340fa9660175,chiefsofstate.baby,available,17.99,54.99,42,1,15,namesilo,,
 076ec67a-2337-4da3-9417-64abc977d035,videogames.baby,available,29.99,,66,18,11,name.com,,
+078dbb63-995b-4b73-a1e3-7c3f2d7479e7,JesusChrist.baby,resell,,,88,24,12,"Spaceship, Inc.",28/04/2026 04:41,28/04/2027 23:59
 07f736fb-2589-4e7e-8ef9-a729bdb65468,keeppace.baby,available,29.99,,74,3,9,name.com,,
 07f9f2ef-b6ca-40ad-a832-fbb7a2b481a1,newsfeature.baby,available,29.99,,50,1,12,name.com,,
 0809b7bc-35c1-40bd-8b1b-00d6570106be,getover.baby,available,29.99,,79,4,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59f17941-03a0-47a0-8a3a-e01a119dc6c3,fitthebill.baby,available,29.99,,84,1,12,name.com,,
 5a135454-f001-4ee6-8931-6f5cead69a05,makebelieve.baby,available,29.99,,76,9,12,name.com,,
 5a207084-a9e4-466d-8f10-2eda4b4cb5ab,officedoor.baby,available,29.99,,55,1,11,name.com,,
-5a299009-d39d-4c50-8148-7be5415d0411,goonholiday.baby,available,29.99,,68,1,13,name.com,,
