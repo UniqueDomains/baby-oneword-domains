@@ -70,7 +70,7 @@ print(df.head())
 | donuts.baby       | available | $29.99    | —             | 54             | 62     | 6      | name.com                                     |
 | fun.baby          | resell    | —         | —             | 90             | 62     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | loans.baby        | premium   | $3,125    | —             | 58             | 24     | 5      | name.com                                     |
-| bits.baby         | available | $29.99    | —             | 71             | 32     | 4      | name.com                                     |
+| bits.baby         | available | $29.99    | —             | 71             | 33     | 4      | name.com                                     |
 | ideas.baby        | resell    | —         | —             | 62             | 37     | 5      | Go Daddy, LLC                                |
 | suits.baby        | premium   | $250      | —             | 61             | 13     | 5      | name.com                                     |
 | popup.baby        | available | $29.99    | —             | 84             | 29     | 6      | name.com                                     |
