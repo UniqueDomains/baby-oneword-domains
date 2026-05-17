@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .baby one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,452 domains · **Median ask:** $51.60 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/baby`  
 **Best for:** founders, investors, studios
 
@@ -71,9 +71,9 @@ print(df.head())
 | fun.baby          | resell    | —         | —             | 90             | 62     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | loans.baby        | premium   | $3,125    | —             | 58             | 24     | 5      | name.com                                     |
 | bits.baby         | available | $29.99    | —             | 71             | 33     | 4      | name.com                                     |
-| ideas.baby        | resell    | —         | —             | 62             | 37     | 5      | Go Daddy, LLC                                |
+| ideas.baby        | resell    | —         | —             | 62             | 36     | 5      | Go Daddy, LLC                                |
 | suits.baby        | premium   | $250      | —             | 61             | 13     | 5      | name.com                                     |
-| popup.baby        | available | $29.99    | —             | 84             | 29     | 6      | name.com                                     |
+| popup.baby        | available | $29.99    | —             | 84             | 28     | 6      | name.com                                     |
 | Bets.baby         | resell    | —         | —             | 72             | 34     | 4      | Spaceship, Inc.                              |
 | status.baby       | premium   | —         | —             | 76             | 40     | 6      | —                                            |
 | dogs.baby         | available | $29.99    | —             | 76             | 28     | 4      | name.com                                     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
