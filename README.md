@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .baby one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,452 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,452 domains · **Median ask:** $51.60 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,452 domains · **Median ask:** $46.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/baby`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| makers.baby       | available | $17.99    | $54.99        | 62             | 67     | 6      | namesilo                                     |
-| lens.baby         | resell    | —         | —             | 62             | 69     | 4      | Spaceship, Inc.                              |
-| sites.baby        | premium   | $250      | —             | 53             | 26     | 5      | name.com                                     |
-| donuts.baby       | available | $29.99    | —             | 54             | 62     | 6      | name.com                                     |
-| fun.baby          | resell    | —         | —             | 90             | 62     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| loans.baby        | premium   | $3,125    | —             | 58             | 24     | 5      | name.com                                     |
-| bits.baby         | available | $29.99    | —             | 71             | 33     | 4      | name.com                                     |
-| ideas.baby        | resell    | —         | —             | 62             | 36     | 5      | Go Daddy, LLC                                |
-| suits.baby        | premium   | $250      | —             | 61             | 13     | 5      | name.com                                     |
-| popup.baby        | available | $29.99    | —             | 84             | 28     | 6      | name.com                                     |
-| Bets.baby         | resell    | —         | —             | 72             | 34     | 4      | Spaceship, Inc.                              |
-| status.baby       | premium   | —         | —             | 76             | 40     | 6      | —                                            |
-| dogs.baby         | available | $29.99    | —             | 76             | 28     | 4      | name.com                                     |
-| spectra.baby      | resell    | —         | —             | 62             | 34     | 7      | Dynadot LLC                                  |
-| volcano.baby      | premium   | —         | —             | 70             | 25     | 7      | —                                            |
-| commonground.baby | available | $29.99    | —             | 74             | 28     | 13     | name.com                                     |
-| spin.baby         | resell    | —         | —             | 76             | 31     | 4      | Spaceship, Inc.                              |
-| hill.baby         | premium   | —         | —             | 66             | 25     | 4      | —                                            |
-| pages.baby        | available | $29.99    | —             | 52             | 28     | 5      | name.com                                     |
-| toy.baby          | resell    | —         | —             | 76             | 29     | 3      | Dynadot LLC                                  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| sheraton.baby   | available | $17.99    | $54.99        | 52             | 83     | 8      | namesilo                                     |
+| orange.baby     | resell    | —         | —             | 74             | 83     | 6      | Spaceship, Inc.                              |
+| mint.baby       | premium   | $625      | —             | 72             | 79     | 4      | name.com                                     |
+| Wikimedia.baby  | available | $29.99    | —             | —              | 83     | 9      | name.com                                     |
+| root.baby       | resell    | —         | —             | 64             | 50     | 4      | Dynadot LLC                                  |
+| dot.baby        | premium   | $3,125    | —             | 74             | 60     | 3      | name.com                                     |
+| morgan.baby     | available | $29.99    | —             | 64             | 82     | 6      | name.com                                     |
+| brain.baby      | resell    | —         | —             | 72             | 48     | 5      | Dynadot LLC                                  |
+| music.baby      | premium   | $3,125    | —             | 84             | 53     | 5      | name.com                                     |
+| aladdin.baby    | available | $17.99    | $54.99        | 76             | 67     | 7      | namesilo                                     |
+| epic.baby       | resell    | —         | —             | 102            | 47     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| search.baby     | premium   | $3,125    | —             | 70             | 53     | 6      | name.com                                     |
+| nationwide.baby | available | $29.99    | $94.99        | 76             | 66     | 10     | name.com                                     |
+| only.baby       | resell    | —         | —             | 110            | 45     | 4      | Porkbun, LLC                                 |
+| info.baby       | premium   | $625      | —             | 80             | 51     | 4      | name.com                                     |
+| priceless.baby  | available | $17.99    | $54.99        | 75             | 66     | 9      | namesilo                                     |
+| focus.baby      | resell    | —         | —             | 102            | 43     | 5      | Spaceship, Inc.                              |
+| digital.baby    | premium   | $3,125    | $94.99        | 100            | 48     | 7      | name.com                                     |
+| Nutella.baby    | available | $17.99    | $54.99        | 72             | 66     | 7      | namesilo                                     |
+| wonder.baby     | resell    | —         | —             | 86             | 43     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
