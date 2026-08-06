@@ -1,10 +1,10 @@
-# Available .BABY One-Word Domains (11,452)
+# Available .BABY One-Word Domains (11,465)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C452%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C465%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .baby one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,452 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,465 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,452 domains · **Median ask:** $46.79 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,465 domains · **Median ask:** $40.78 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/baby`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/baby`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BABY one-word domain 
 
 ### Files
 
-- `baby.csv` — public CSV extract (1,000 rows)
-- `baby.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `baby.csv`, public CSV extract (1,000 rows)
+- `baby.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| sheraton.baby   | available | $17.99    | $54.99        | 52             | 83     | 8      | namesilo                                     |
-| orange.baby     | resell    | —         | —             | 74             | 83     | 6      | Spaceship, Inc.                              |
-| mint.baby       | premium   | $625      | —             | 72             | 79     | 4      | name.com                                     |
-| Wikimedia.baby  | available | $29.99    | —             | —              | 83     | 9      | name.com                                     |
-| root.baby       | resell    | —         | —             | 64             | 50     | 4      | Dynadot LLC                                  |
-| dot.baby        | premium   | $3,125    | —             | 74             | 60     | 3      | name.com                                     |
-| morgan.baby     | available | $29.99    | —             | 64             | 82     | 6      | name.com                                     |
-| brain.baby      | resell    | —         | —             | 72             | 48     | 5      | Dynadot LLC                                  |
-| music.baby      | premium   | $3,125    | —             | 84             | 53     | 5      | name.com                                     |
-| aladdin.baby    | available | $17.99    | $54.99        | 76             | 67     | 7      | namesilo                                     |
-| epic.baby       | resell    | —         | —             | 102            | 47     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| search.baby     | premium   | $3,125    | —             | 70             | 53     | 6      | name.com                                     |
-| nationwide.baby | available | $29.99    | $94.99        | 76             | 66     | 10     | name.com                                     |
-| only.baby       | resell    | —         | —             | 110            | 45     | 4      | Porkbun, LLC                                 |
-| info.baby       | premium   | $625      | —             | 80             | 51     | 4      | name.com                                     |
-| priceless.baby  | available | $17.99    | $54.99        | 75             | 66     | 9      | namesilo                                     |
-| focus.baby      | resell    | —         | —             | 102            | 43     | 5      | Spaceship, Inc.                              |
-| digital.baby    | premium   | $3,125    | $94.99        | 100            | 48     | 7      | name.com                                     |
-| Nutella.baby    | available | $17.99    | $54.99        | 72             | 66     | 7      | namesilo                                     |
-| wonder.baby     | resell    | —         | —             | 86             | 43     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| ago.baby  | available | $29.99    | $94.99        | medium         | low    | 3      | name.com                                     |
+| bud.baby  | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
+| ape.baby  | premium   | $625      | $94.99        | medium         | low    | 3      | name.com                                     |
+| due.baby  | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| but.baby  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
+| Ava.baby  | premium   | $242      | $53.92        | high           | medium | 3      | namesilo                                     |
+| err.baby  | available | $17.99    | $54.99        | high           | low    | 3      | namesilo                                     |
+| lp.baby   | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                              |
+| dot.baby  | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
+| had.baby  | available | $17.99    | $54.99        | high           | low    | 3      | namesilo                                     |
+| mix.baby  | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC                                  |
+| pan.baby  | premium   | $625      | —             | high           | low    | 3      | name.com                                     |
+| him.baby  | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| epic.baby | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| band.baby | premium   | $625      | —             | medium         | low    | 4      | name.com                                     |
+| jot.baby  | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| have.baby | resell    | —         | —             | high           | low    | 4      | Dynadot LLC                                  |
+| bass.baby | premium   | $242      | $53.92        | medium         | low    | 4      | namesilo                                     |
+| lag.baby  | available | $17.99    | $54.99        | medium         | low    | 3      | namesilo                                     |
+| only.baby | resell    | —         | —             | high           | medium | 4      | Porkbun, LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,452 live domains                        |
+| 1,000-row public sample | 11,465 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 26 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .baby domains, which makes it useful for buyers comparing exact-word clarity against extension fit. The set ranges from concrete words like floor.baby and mill.baby to broader terms like discuss.baby and correlate.baby, plus geographic or commercial words such as canada.baby and ticket.baby. With a median ask of 51.60, price is accessible at the middle of the list, but the stronger names still depend on how naturally the word pairs with .baby. When comparing these domains, focus on memorability, direct relevance to baby products or parenting, and whether the word creates trust rather than confusion or negative tone.
+This list covers one-word domain names on the .baby extension, spanning everyday words, playful names, and niche terms. Of the 11,465 names tracked, 10,871 are available now, with smaller pools of premium (238) and resell (356) listings. The vast majority price under $500, making this a low-cost entry point for testing a brandable .baby name.
 
-- Prefer words that pair naturally with the .baby extension
-- Check for clear meaning, spelling ease, and recall
-- Watch for weak or negative terms like shame.baby
-- Use price discipline around the 51.60 median ask
+- 10,871 of 11,465 .baby names are available now
+- Median ask is about $41; most list under $500
+- Only 11 names sit in the top 15% demand tier
+- 1,892 names carry higher renewal costs to check first
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
