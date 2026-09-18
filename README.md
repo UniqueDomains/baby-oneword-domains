@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .baby one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,318 domains · **Median ask:** $18.33 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/baby`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| ago.baby  | available | $29.99    | $94.99        | medium         | low    | 3      | name.com                                     |
-| bud.baby  | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
-| ape.baby  | premium   | $625      | $94.99        | medium         | low    | 3      | name.com                                     |
-| azo.baby  | available | $1.80     | $81.98        | low            | low    | 3      | namecheap                                    |
-| but.baby  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
-| Ava.baby  | premium   | $242      | $53.92        | high           | medium | 3      | namesilo                                     |
-| due.baby  | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
-| lp.baby   | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                              |
-| dot.baby  | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
-| err.baby  | available | $17.99    | $54.99        | high           | low    | 3      | namesilo                                     |
-| mix.baby  | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC                                  |
-| pan.baby  | premium   | $625      | —             | high           | low    | 3      | name.com                                     |
-| had.baby  | available | $17.99    | $54.99        | high           | low    | 3      | namesilo                                     |
-| door.baby | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                  |
-| band.baby | premium   | $625      | —             | medium         | low    | 4      | name.com                                     |
-| him.baby  | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
-| epic.baby | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| bass.baby | premium   | $242      | $53.92        | medium         | low    | 4      | namesilo                                     |
-| jot.baby  | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
-| have.baby | resell    | —         | —             | high           | low    | 4      | Dynadot LLC                                  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| beauty.baby | premium   | $625      | —             | high           | low    | 6      | name.com                                     |
+| tough.baby  | available | $17.99    | $54.99        | high           | low    | 5      | namesilo                                     |
+| ago.baby    | available | $29.99    | $94.99        | medium         | low    | 3      | name.com                                     |
+| bud.baby    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
+| ape.baby    | premium   | $625      | $94.99        | medium         | low    | 3      | name.com                                     |
+| azo.baby    | available | $1.80     | $81.98        | low            | low    | 3      | namecheap                                    |
+| but.baby    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
+| Ava.baby    | premium   | $242      | $53.92        | high           | medium | 3      | namesilo                                     |
+| due.baby    | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| lp.baby     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                              |
+| dot.baby    | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
+| err.baby    | available | $17.99    | $54.99        | high           | low    | 3      | namesilo                                     |
+| mix.baby    | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC                                  |
+| pan.baby    | premium   | $625      | —             | high           | low    | 3      | name.com                                     |
+| had.baby    | available | $17.99    | $54.99        | high           | low    | 3      | namesilo                                     |
+| door.baby   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                  |
+| band.baby   | premium   | $625      | —             | medium         | low    | 4      | name.com                                     |
+| him.baby    | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| epic.baby   | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| bass.baby   | premium   | $242      | $53.92        | medium         | low    | 4      | namesilo                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
