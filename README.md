@@ -1,10 +1,10 @@
-# Available .BABY One-Word Domains (31,727)
+# Available .BABY One-Word Domains (14,268)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C727%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C268%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .baby one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,727 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,268 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,727 domains · **Median ask:** $13.94 · **High-demand under $2,500:** 29
+**Public extract:** 1,000 rows · **Live catalog:** 14,268 domains · **Median ask:** $14.35 · **High-demand under $2,500:** 33
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/baby`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| ala.baby  | available | $17.99    | $54.99        | high           | low    | 3      | namesilo              |
-| abc.baby  | resell    | —         | —             | high           | low    | 3      | Network Solutions LLC |
-| ape.baby  | premium   | $625      | $94.99        | high           | low    | 3      | name.com              |
-| ane.baby  | available | $1.80     | $81.98        | high           | low    | 3      | namecheap             |
-| bud.baby  | resell    | —         | —             | high           | low    | 3      | Dynadot LLC           |
-| ask.baby  | premium   | $625      | —             | high           | medium | 3      | name.com              |
-| axe.baby  | available | $17.99    | $54.99        | high           | low    | 3      | namesilo              |
-| but.baby  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.       |
-| ava.baby  | premium   | $242      | $53.92        | high           | medium | 3      | namesilo              |
-| azo.baby  | available | $1.80     | $81.98        | high           | low    | 3      | namecheap             |
-| hit.baby  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.       |
-| her.baby  | premium   | $625      | —             | high           | low    | 3      | name.com              |
-| bum.baby  | available | $1.80     | $81.98        | high           | low    | 3      | namecheap             |
-| lp.baby   | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.       |
-| lan.baby  | premium   | $3,125    | —             | high           | low    | 3      | name.com              |
-| err.baby  | available | $17.99    | $54.99        | high           | low    | 3      | namesilo              |
-| pre.baby  | resell    | —         | —             | high           | low    | 3      | Dynadot LLC           |
-| mao.baby  | premium   | $625      | —             | high           | low    | 3      | name.com              |
-| feb.baby  | available | $17.99    | $54.99        | high           | low    | 3      | namesilo              |
-| butt.baby | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| orange.baby     | resell    | —         | —             | high           | high   | 6      | Spaceship, Inc.       |
+| dessert.baby    | available | $17.99    | $54.99        | high           | low    | 7      | namesilo              |
+| priceless.baby  | available | $17.99    | $54.99        | high           | medium | 9      | namesilo              |
+| hit.baby        | resell    | —         | —             | high           | high   | 3      | Spaceship, Inc.       |
+| enterprise.baby | available | $1.80     | $81.98        | high           | medium | 10     | namecheap             |
+| animal.baby     | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.       |
+| intimate.baby   | available | $17.99    | $54.99        | high           | low    | 8      | namesilo              |
+| recovery.baby   | available | $1.80     | $81.98        | high           | low    | 8      | namecheap             |
+| action.baby     | available | $17.99    | $54.99        | high           | medium | 6      | namesilo              |
+| ala.baby        | available | $17.99    | $54.99        | high           | low    | 3      | namesilo              |
+| abc.baby        | resell    | —         | —             | high           | low    | 3      | Network Solutions LLC |
+| ape.baby        | premium   | $625      | $94.99        | high           | low    | 3      | name.com              |
+| ane.baby        | available | $1.80     | $81.98        | high           | low    | 3      | namecheap             |
+| bud.baby        | resell    | —         | —             | high           | low    | 3      | Dynadot LLC           |
+| ask.baby        | premium   | $625      | —             | high           | medium | 3      | name.com              |
+| axe.baby        | available | $17.99    | $54.99        | high           | low    | 3      | namesilo              |
+| but.baby        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.       |
+| ava.baby        | premium   | $242      | $53.92        | high           | medium | 3      | namesilo              |
+| azo.baby        | available | $1.80     | $81.98        | high           | low    | 3      | namecheap             |
+| her.baby        | premium   | $625      | —             | high           | low    | 3      | name.com              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,727 live domains                        |
+| 1,000-row public sample | 14,268 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 29 high-demand names under $2,500          |
+| Basic exported fields   | 33 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BABY One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
