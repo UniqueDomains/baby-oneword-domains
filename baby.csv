@@ -5,7 +5,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6354691a-a1eb-41e0-9594-0ca5dcbbb262,crazed.baby,available,1.8,81.98,medium,low,6,namecheap,,,13/08/2026 05:31
 528fb09e-a8b3-45a2-890f-9b51f3b782aa,mitral.baby,available,1.8,81.98,medium,low,6,namecheap,,,25/08/2026 02:10
 93831109-4f1b-48d9-af55-5fcd05270d28,splitting.baby,available,1.8,81.98,high,low,9,namecheap,,,09/09/2026 14:01
-d3e9e2a4-9e65-4b17-b236-e6537a0ef138,observation.baby,available,17.99,54.99,high,low,11,namesilo,,,26/09/2026 00:49
+d3e9e2a4-9e65-4b17-b236-e6537a0ef138,observation.baby,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 07:02
+9adf63bf-05f8-47d7-bda5-8ed7ce23bd12,mojave.baby,available,1.54,52.01,high,low,6,porkbun,,,28/09/2026 19:54
 7f2e8b71-06b8-4ee0-aefb-c9d0458c9ea7,dew.baby,available,17.99,54.99,high,low,3,namesilo,,,25/09/2026 09:23
 35530b05-5acf-4e2d-a415-c6d47e9c7139,roseola.baby,available,1.8,81.98,high,medium,7,namecheap,,,09/09/2026 10:27
 6a770f6e-55b9-4aab-9507-5a183b5635b1,commodious.baby,available,1.8,81.98,medium,low,10,namecheap,,,12/08/2026 19:10
@@ -15,8 +16,10 @@ bbe1933d-1d9e-4420-8985-72778dcfe9b0,occasion.baby,available,17.99,54.99,high,lo
 4dea4aec-4e6e-4f1f-b3d9-c7753ac806c8,collars.baby,available,17.99,54.99,medium,low,7,namesilo,,,20/09/2026 09:10
 a677b5a9-f568-4f6c-995d-41b416eff710,aerate.baby,available,1.8,81.98,high,low,6,namecheap,,,17/09/2026 21:35
 9d533e85-443a-4351-a24b-43035eb0f3c9,difficulty.baby,available,17.99,54.99,high,low,10,namesilo,,,
+a6046bbd-7b3c-456d-9090-b2b600c350fc,overdose.baby,available,1.99,53.72,medium,low,8,dynadot,,,29/09/2026 02:45
+82b9fcf0-9c8a-4ada-aa9b-e58c22607c50,grenoble.baby,available,1.99,53.72,medium,low,8,dynadot,,,28/09/2026 19:22
 d0634283-97ef-4d96-b2b6-9468df6b9ce3,pitfall.baby,available,17.99,54.99,medium,low,7,namesilo,,,
-85c8951a-2354-40e1-a18f-bc4ff66feb38,treating.baby,available,1.8,81.98,high,low,8,namecheap,,,23/09/2026 18:53
+85c8951a-2354-40e1-a18f-bc4ff66feb38,treating.baby,available,1.18,51.8,high,low,8,spaceship,,,28/09/2026 08:47
 5cc775fc-5ecd-4853-9a1c-834b4c430525,brittle.baby,available,1.8,81.98,medium,low,7,namecheap,,,11/08/2026 03:47
 71dbf018-9801-48bf-9269-43ef069f22ba,overeager.baby,available,1.8,81.98,medium,low,9,namecheap,,,04/09/2026 20:31
 9cfd336c-6950-46a0-b333-b227dc1c6913,zygoma.baby,available,17.99,54.99,medium,low,6,namesilo,,,20/09/2026 03:03
@@ -50,7 +53,6 @@ de0aac05-f68d-45be-9c57-49b34aeca85b,bewitched.baby,available,1.8,81.98,medium,l
 9960104f-123a-4074-a08c-b527c79535bc,beefburger.baby,available,1.8,81.98,medium,low,10,namecheap,,,23/09/2026 01:04
 7eb5098a-4ce3-443b-b767-1fd7e4f814c0,imbricate.baby,available,1.8,81.98,medium,low,9,namecheap,,,21/08/2026 20:35
 5d3993ee-acbc-4b8e-84bb-cb9fc3ab2b4a,joachim.baby,available,17.99,54.99,high,low,7,namesilo,,,27/09/2026 04:35
-c1834165-5052-4b97-845c-a30b80da7a5b,club.baby,premium,625,,high,low,4,name.com,,,
 afe85a72-d33d-4354-b31b-5789c2101d08,beigel.baby,available,1.8,81.98,high,low,6,namecheap,,,21/09/2026 17:54
 c5d86164-29cd-423e-b057-8f5dc9d3acbb,careless.baby,available,17.99,54.99,high,low,8,namesilo,,,23/09/2026 12:52
 8e86547e-8529-41dc-a04e-a40e48af2f19,judicial.baby,available,1.8,81.98,high,low,8,namecheap,,,22/08/2026 14:14
@@ -67,12 +69,15 @@ bca122c6-e985-4966-93b9-43c87a2b6912,hashtag.baby,available,17.99,54.99,high,low
 831a9904-9bd7-49b6-b2b5-c483e6cbcf63,wisdoms.baby,available,17.99,54.99,medium,low,7,namesilo,,,21/09/2026 10:19
 9ebb5333-f4dc-4845-80fb-efd1392e5e23,cambrian.baby,available,1.8,81.98,high,low,8,namecheap,,,11/08/2026 15:45
 2b233ef6-e9b9-4db4-a2ba-40d705ea2fdb,advocator.baby,available,17.99,54.99,medium,low,9,namesilo,,,17/09/2026 11:45
+be3cd2a1-cdba-48d2-9b89-2affd0a2562f,jewell.baby,available,17.99,54.99,medium,low,6,namesilo,,,29/09/2026 04:07
 ac360e99-cec7-43a9-b562-fce8d7b7b9c4,stab.baby,available,1.99,53.72,high,low,4,dynadot,,,28/09/2026 02:12
+7b33dae4-7378-4b12-aa12-b12f7cf4f5a3,handwriting.baby,available,1.8,81.98,medium,low,11,namecheap,,,28/09/2026 12:30
 257a866a-0da9-4c1e-a6e4-92242587e3e2,abbey.baby,available,1.8,81.98,high,low,5,namecheap,,,16/09/2026 14:25
 60708853-406e-40c0-8a04-c4e355e42236,silvan.baby,available,1.8,81.98,medium,low,6,namecheap,,,19/09/2026 11:29
 a9a3bfc5-09ed-441f-bccd-660b22f02ee5,blissfully.baby,available,1.8,81.98,high,low,10,namecheap,,,14/09/2026 00:23
 1d0c06c1-9bad-487a-8c28-e6ed66a1a8d0,trains.baby,available,17.99,54.99,high,low,6,namesilo,,,27/09/2026 22:59
 7f388b71-162c-4092-b32e-9e8879d0f024,regulate.baby,available,17.99,54.99,high,low,8,namesilo,,,
+e416e731-80bd-4556-9f63-67c97996a505,commercials.baby,available,1.99,53.72,medium,low,11,dynadot,,,28/09/2026 13:17
 c2715597-ef15-4966-9ca4-2ec97194e9da,affiliation.baby,available,17.99,54.99,high,low,11,namesilo,,,
 7726aca1-d501-457c-a679-059305096bbb,jaunty.baby,available,1.8,81.98,high,low,6,namecheap,,,12/08/2026 06:01
 d96d7a72-4498-489d-8976-ebb8b73adb10,omen.baby,available,1.8,81.98,high,low,4,namecheap,,,27/09/2026 07:13
@@ -105,22 +110,28 @@ c8272562-c5ec-4076-b45c-e17f40ce6698,anthurium.baby,available,17.99,54.99,medium
 ad1cbcc2-e94c-4b15-838c-74417d158e0b,southward.baby,available,1.8,81.98,high,medium,9,namecheap,,,10/09/2026 14:49
 5831f82e-5037-449d-8079-ce89f7fc7791,mogadishu.baby,available,17.99,54.99,medium,low,9,namesilo,,,24/09/2026 12:23
 4b309ca7-c3bd-4f22-a8b7-416dd2c44109,sickish.baby,available,1.8,81.98,low,low,7,namecheap,,,03/09/2026 14:05
+ed594197-8c3f-4dd8-9696-0ccda943ec13,dns.baby,premium,,,high,medium,3,,,,29/09/2026 03:47
 ee94e86f-e871-454f-9a19-785859413307,alienable.baby,available,1.8,81.98,medium,low,9,namecheap,,,
 d2318a0c-30af-4fc0-97b6-627a275a1743,boned.baby,available,1.8,81.98,medium,low,5,namecheap,,,10/08/2026 18:34
 0d59538f-f141-4525-9836-cf31a42ad205,devotedly.baby,available,1.8,81.98,medium,low,9,namecheap,,,14/09/2026 12:28
+3dddfdfc-f2ac-48d9-b733-313b6d547e05,missions.baby,available,17.99,54.99,medium,low,8,namesilo,,,28/09/2026 23:16
 9b3aea29-135f-4459-a5fc-55f7b2a42d3a,hindoo.baby,available,1.8,81.98,medium,low,6,namecheap,,,21/08/2026 09:33
 c903fa72-cd74-4573-be7b-7a37520b2d21,deposition.baby,available,17.99,54.99,medium,low,10,namesilo,,,24/09/2026 22:00
 76719678-aec5-454a-8ca5-cb9e3dd964ea,hyalin.baby,available,1.8,81.98,medium,low,6,namecheap,,,21/08/2026 16:10
 2f6bc0c9-bd5f-4670-b778-0ddc66123d95,topology.baby,available,17.99,54.99,high,low,8,namesilo,,,19/09/2026 01:59
 9c2dbd0a-31b3-4c87-a008-3090e1495df1,blatant.baby,available,1.8,81.98,medium,low,7,namecheap,,,10/08/2026 13:31
 c14d6e9e-18e7-4132-9f6c-bdc633098d0c,taking.baby,available,1.8,81.98,high,low,6,namecheap,,,18/08/2026 02:22
+743a24a3-645e-4936-8ced-35f4e2981e8c,protects.baby,available,17.99,54.99,medium,low,8,namesilo,,,29/09/2026 00:03
 d52ed062-0ea7-4556-aec7-02cf25b25554,reckless.baby,available,1.8,81.98,medium,low,8,namecheap,,,18/08/2026 10:33
+a269c439-77a1-4df3-848a-6556a857f18b,homecoming.baby,available,1.99,53.72,high,low,10,dynadot,,,28/09/2026 19:27
 0b5027fb-4cb8-4f92-90bd-4d77fcfda11c,accompanying.baby,available,17.99,54.99,high,low,12,namesilo,,,25/09/2026 03:29
 d83ae97a-cc64-4d15-ab28-5bf58fadf4cd,miry.baby,available,1.8,81.98,medium,low,4,namecheap,,,10/08/2026 17:05
 11a95724-4829-4653-b4be-f2daa2acaa92,hollows.baby,available,17.99,54.99,low,low,7,namesilo,,,20/09/2026 18:42
 10cd3540-b233-422e-81a0-008ba2acf98e,afterglow.baby,available,1.8,81.98,high,low,9,namecheap,,,17/09/2026 15:42
 534f773c-30f6-46da-bb8a-d8298b2e6e1d,mastered.baby,available,1.8,81.98,high,low,8,namecheap,,,14/08/2026 17:35
+e2c782d2-aa85-4ce2-acc7-9556a1f1fbe6,embarrassment.baby,available,17.99,54.99,medium,low,13,namesilo,,,28/09/2026 12:29
 dfa97891-5589-4257-bb87-4da6b1f0ecf3,actuality.baby,available,17.99,54.99,high,low,9,namesilo,,,17/09/2026 05:19
+5efe0047-0848-427e-a161-cc0f6e2f90fa,bertie.baby,available,50.2,50.2,medium,low,6,cloudflare,,,28/09/2026 16:25
 5f46a9e5-c2bb-4975-8a44-958e73191055,hydrous.baby,available,1.8,81.98,medium,low,7,namecheap,,,21/08/2026 16:14
 31181ea3-2ec0-4958-ac7f-23b2cc0b98f2,them.baby,available,17.99,54.99,medium,low,4,namesilo,,,
 4c2c5bc7-8bcb-40a1-88ad-a2b7931298c9,moistness.baby,available,29.99,94.99,medium,low,9,name.com,,,13/08/2026 16:47
@@ -131,6 +142,7 @@ dfa97891-5589-4257-bb87-4da6b1f0ecf3,actuality.baby,available,17.99,54.99,high,l
 08249a31-875c-4fe4-b32b-2a9dc57493b2,imbalanced.baby,available,1.8,81.98,medium,low,10,namecheap,,,21/08/2026 20:20
 87c170b5-0d38-4a90-8f61-104c60346b32,whiz.baby,available,1.8,81.98,high,low,4,namecheap,,,21/09/2026 18:01
 18a00156-aadb-44bd-a912-fc32dd51d5b3,ebullient.baby,available,1.8,81.98,medium,low,9,namecheap,,,14/08/2026 23:20
+99916b7d-4ec2-441e-8c0f-b0f509e46927,questioned.baby,available,1.99,53.72,low,low,10,dynadot,,,28/09/2026 08:50
 1a03e968-4d8f-45bf-99d8-dce915acadab,ibnsina.baby,available,17.99,54.99,medium,low,8,namesilo,,,16/09/2026 18:41
 feda52e8-c791-4b59-8edc-47bd59539831,soonest.baby,available,1.8,81.98,medium,low,7,namecheap,,,14/08/2026 22:25
 ab56930f-b92c-4c6d-8680-eeb48a08cd2a,angst.baby,available,17.99,54.99,medium,low,5,namesilo,,,19/09/2026 07:24
@@ -138,12 +150,13 @@ ab56930f-b92c-4c6d-8680-eeb48a08cd2a,angst.baby,available,17.99,54.99,medium,low
 e529560f-69f0-4afe-9a02-ec8dfaaa6f20,ceremony.baby,available,1.8,81.98,high,low,8,namecheap,,,08/09/2026 07:31
 158de08c-827c-47be-bc36-53fe30420ffd,mural.baby,available,1.8,81.98,high,low,5,namecheap,,,03/09/2026 11:00
 c6cdc20d-59d4-4216-9183-0c16b50fe5ff,pro.baby,resell,,,high,medium,3,"Sav.com, LLC - 29",29/07/2026 21:52,29/07/2027 23:59,26/09/2026 08:20
-f838fcf4-f77b-41fa-bc52-8a39cfb58f98,swiftly.baby,available,29.99,,high,low,7,name.com,,,
+f838fcf4-f77b-41fa-bc52-8a39cfb58f98,swiftly.baby,available,1.18,51.8,high,low,7,spaceship,,,28/09/2026 14:53
 4cf06e2b-5b03-4afa-9f7d-67cd8513e668,abkhazian.baby,available,1.8,81.98,medium,low,9,namecheap,,,
 7c4d9dcf-62a4-40f8-908b-bcc4c1134b96,reciprocal.baby,available,1.8,81.98,high,low,10,namecheap,,,09/09/2026 11:29
 08d84a62-8b95-42ee-a458-9d8cb249e09e,possibility.baby,available,17.99,54.99,high,low,11,namesilo,,,25/09/2026 16:40
 8c9de7b4-f3a7-48dd-9f10-d782d83f71d9,alhakim.baby,available,1.8,81.98,medium,low,8,namecheap,,,18/09/2026 00:38
-2ef42512-117c-4852-8dfb-ff17badf547f,yesterday.baby,available,17.99,54.99,high,low,9,namesilo,,,
+2ef42512-117c-4852-8dfb-ff17badf547f,yesterday.baby,available,17.99,54.99,high,low,9,namesilo,,,28/09/2026 16:50
+0cf34f27-1dd2-49a6-a5a1-26c5ac22a825,franck.baby,available,1.18,51.8,medium,low,6,spaceship,,,29/09/2026 00:24
 fcfb7766-0a05-44cb-96fc-a3299b348065,omnivorous.baby,available,1.8,81.98,medium,low,10,namecheap,,,04/09/2026 13:56
 34d7a355-331f-40ee-b865-d0d485dd14f9,comte.baby,available,17.99,54.99,high,low,5,namesilo,,,21/09/2026 03:56
 290893b0-09b6-4e40-9d6c-c47849ab38e0,dayspring.baby,available,1.8,81.98,high,low,9,namecheap,,,11/09/2026 02:07
@@ -156,19 +169,22 @@ aae5ba54-4588-4a01-b242-20945f327d62,vaccination.baby,available,17.99,54.99,high
 ee203ca7-ddeb-4756-8a7d-8118197f1fcf,asuncion.baby,available,29.99,94.99,high,low,8,name.com,,,20/09/2026 18:23
 519d6d59-b34e-47e6-9c05-ca2636633df2,thundery.baby,available,29.99,94.99,medium,low,8,name.com,,,13/08/2026 19:58
 87e94c28-7c6a-4b9c-887b-efce2eff63af,lemon.baby,resell,,,high,medium,5,"Spaceship, Inc.",14/04/2026 21:24,14/04/2027 23:59,26/09/2026 07:12
-c7feaac2-e5d5-406a-94d6-7213f84bd9bf,brownie.baby,available,17.99,54.99,high,low,7,namesilo,,,
+c7feaac2-e5d5-406a-94d6-7213f84bd9bf,brownie.baby,available,50.2,50.2,high,low,7,cloudflare,,,29/09/2026 04:38
 f38afd20-e00f-444e-b270-6d46797c51fc,arctic.baby,available,1.8,81.98,high,low,6,namecheap,,,06/08/2026 16:07
 bbcd8970-2b65-48a2-b79b-016b47df20dd,abenaki.baby,available,1.8,81.98,medium,low,7,namecheap,,,
 468a8b7a-3059-4931-974d-e1475d9a9fad,woodruff.baby,available,17.99,54.99,high,low,8,namesilo,,,20/09/2026 15:04
 a2839200-a5af-4dca-9c23-5c36e263da12,ascendable.baby,available,1.8,81.98,medium,low,10,namecheap,,,07/08/2026 00:35
 76d41ce8-beeb-422e-a79d-f23c925dc54a,modelling.baby,available,29.99,,high,low,9,name.com,,,
+e1ef6df9-21d6-4fbf-9591-0c0fb688f606,itv.baby,available,1.18,51.8,high,medium,3,spaceship,,,29/09/2026 03:49
 292d268d-c84d-465a-b921-33a6c22c90f1,mortimer.baby,available,17.99,54.99,medium,low,8,namesilo,,,25/09/2026 23:45
 a0f79941-83a7-47cd-9cbf-49cb3182eb0d,lean.baby,available,1.8,81.98,high,low,4,namecheap,,,22/08/2026 22:04
 c15242dd-50b8-4b1c-ad36-b4ac83dc13b3,specific.baby,available,17.99,54.99,high,low,8,namesilo,,,27/09/2026 02:45
+ed0fb76a-1197-4b72-af4b-06e7f51f2979,accuse.baby,available,17.99,54.99,medium,low,6,namesilo,,,29/09/2026 02:41
 3f7ffbcb-d21b-4132-8fd3-531dd98e84c4,openly.baby,available,1.8,81.98,high,low,6,namecheap,,,15/09/2026 17:59
 26383528-8e2c-48e5-84ae-b3e45a495df2,autosexing.baby,available,17.99,54.99,medium,low,10,namesilo,,,21/09/2026 07:42
 d7080d6d-f438-4e6a-8a0c-f5850d771b90,putting.baby,available,17.99,54.99,high,low,7,namesilo,,,25/09/2026 10:11
 50be6db9-f9b9-47e4-a960-274d7c905bca,provably.baby,available,1.8,81.98,medium,low,8,namecheap,,,14/09/2026 11:29
+fdb184aa-76d7-422d-bf7c-10e570124c14,bronson.baby,available,1.54,52.01,medium,low,7,porkbun,,,28/09/2026 16:48
 bc73d29f-113d-4ec1-9faa-9c414cab1e75,eyrie.baby,available,1.8,81.98,high,low,5,namecheap,,,
 3a5f5cb7-8878-48e9-9721-ab05140a7c0b,balenciaga.baby,available,1.8,81.98,high,medium,10,namecheap,,,21/09/2026 21:55
 99dae2fa-0ea7-46c1-8631-d73d81bb773a,cynic.baby,available,1.8,81.98,medium,low,5,namecheap,,,24/09/2026 20:49
@@ -188,7 +204,6 @@ be3c1e6e-06b8-4af7-ad38-0225a8d39b1f,unexampled.baby,available,1.8,81.98,medium,
 b3162acb-dad8-429e-8be6-c3e5d09aa5e7,dearie.baby,available,29.99,94.99,high,low,6,name.com,,,13/08/2026 18:19
 95cf1915-f771-480a-aa43-cd830b435d57,heads.baby,available,17.99,54.99,high,low,5,namesilo,,,
 64532881-7e08-4e6c-9258-bb111e40846c,sat.baby,resell,,,high,low,3,Dynadot Inc,19/06/2026 14:05,19/06/2027 23:59,26/09/2026 08:49
-5e3f9ee3-9a27-4456-b89d-6c9e4ef68ec8,namely.baby,available,17.99,54.99,medium,low,6,namesilo,,,
 505e2a64-7f16-4035-8691-1b32cd574275,plane.baby,available,1.8,81.98,high,low,5,namecheap,,,24/09/2026 19:36
 89637bc7-7881-4529-bb5e-19608a77629c,impacted.baby,available,1.8,81.98,medium,low,8,namecheap,,,21/08/2026 21:36
 e5a34f23-1791-4e96-b645-913646e18b3b,renunciant.baby,available,1.8,81.98,medium,low,10,namecheap,,,09/09/2026 14:23
@@ -207,7 +222,8 @@ e54c8edd-42c4-4b57-9b5e-1f5abc1ec317,modified.baby,available,1.8,81.98,high,low,
 8e398ef3-b690-40d3-9001-957345003391,arboreal.baby,available,1.8,81.98,high,low,8,namecheap,,,06/08/2026 13:18
 b84e97dc-5b90-4efd-84e8-ffcfcce5f32f,terse.baby,available,1.8,81.98,medium,low,5,namecheap,,,22/08/2026 18:16
 107393c1-9cdd-4664-aa40-33b104cec815,widespread.baby,available,17.99,54.99,high,low,10,namesilo,,,24/09/2026 16:57
-1707336c-8e3b-4158-bab8-04d91e17d1eb,bra.baby,available,17.99,54.99,high,low,3,namesilo,,,
+1707336c-8e3b-4158-bab8-04d91e17d1eb,bra.baby,available,1.18,51.8,high,low,3,spaceship,,,29/09/2026 00:58
+053902fd-66b2-40f6-be81-fbbcc4079555,maternity.baby,available,1.18,51.8,high,low,9,spaceship,,,28/09/2026 19:52
 442d7a79-f8de-4669-a28a-dabb7b9b522d,platter.baby,available,17.99,54.99,high,low,7,namesilo,,,
 13ed24c7-42b0-4f9e-bf44-032fe47b4aca,theories.baby,available,1.18,51.8,medium,low,8,spaceship,,,28/09/2026 05:40
 b431c0e6-e7e9-489a-9aa4-a1c936040ebd,bsarch.baby,available,17.99,54.99,medium,low,6,namesilo,,,21/09/2026 14:16
@@ -237,10 +253,10 @@ eb739053-2692-4e2e-abd9-c506e99c2e4c,warrant.baby,available,1.8,81.98,high,low,7
 5247dc6b-918d-4e86-9036-cfdabf941794,quickest.baby,available,1.8,81.98,medium,low,8,namecheap,,,14/09/2026 17:48
 452e9d9c-5b37-4662-940b-1983094bb536,dressed.baby,available,17.99,54.99,high,low,7,namesilo,,,22/09/2026 07:16
 9d9a30db-8ce1-4537-a990-734e76a76a8d,abandon.baby,available,1.8,81.98,high,low,7,namecheap,,,14/08/2026 03:52
-260f6e09-5caa-4122-8cd4-e07f8b8594e7,boston.baby,premium,625,,high,low,6,name.com,,,
 a5c65473-faee-4113-98a4-318d804a9ab7,curry.baby,available,29.99,,high,low,5,name.com,,,
+6c301189-188e-471f-9f58-bd2031442ef6,dolan.baby,available,17.99,54.99,high,low,5,namesilo,,,28/09/2026 11:39
 dc377a26-f100-4a6e-bf3a-6a8759d9b51d,akaba.baby,available,17.99,54.99,medium,low,5,namesilo,,,17/09/2026 23:49
-d9f67303-b750-4910-abfc-42fafbb4047a,accuser.baby,available,17.99,54.99,medium,low,7,namesilo,,,
+d9f67303-b750-4910-abfc-42fafbb4047a,accuser.baby,available,17.99,54.99,medium,low,7,namesilo,,,28/09/2026 17:32
 a16f4bc2-a01f-4440-a155-6864a3ed957a,activeness.baby,available,17.99,54.99,medium,low,10,namesilo,,,17/09/2026 05:11
 22096a1d-1b8e-48f4-82d2-4a8a02380b52,volleyball.baby,available,17.99,54.99,high,low,10,namesilo,,,
 a9f537eb-dcfe-42ce-8792-6a287e89c7aa,juxtaposed.baby,available,1.8,81.98,medium,low,10,namecheap,,,22/08/2026 15:00
@@ -256,8 +272,9 @@ f76a1327-3cf1-4221-b64e-82dfff7cbe66,sequester.baby,available,1.8,81.98,medium,l
 fef78fe0-6310-48c2-aea2-2c74c91f502b,unsold.baby,available,1.8,81.98,medium,low,6,namecheap,,,12/09/2026 20:17
 ba9bd835-97c8-4e07-92c6-8847eb343399,assamese.baby,available,1.8,81.98,medium,low,8,namecheap,,,07/08/2026 05:38
 222e02f8-4b7d-4610-8f2b-42e2abe9e7d3,birdie.baby,available,29.99,94.99,high,low,6,name.com,,,23/09/2026 20:41
+008e64b9-de70-4860-8569-2697fbd740ed,flour.baby,available,17.99,54.99,high,low,5,namesilo,,,28/09/2026 14:13
 9ad09740-c3c8-4689-bef0-2afe32bd337d,pita.baby,available,17.99,54.99,high,low,4,namesilo,,,
-f1bc72e4-13c7-41c6-b6f3-41d0abdc4b7b,begin.baby,available,1.8,81.98,high,low,5,namecheap,,,23/09/2026 09:05
+f1bc72e4-13c7-41c6-b6f3-41d0abdc4b7b,begin.baby,available,1.18,51.8,high,low,5,spaceship,,,28/09/2026 08:26
 d62a24e8-6a76-4aa6-a874-bec559fa10fa,darter.baby,available,17.99,54.99,medium,low,6,namesilo,,,19/09/2026 08:19
 fe119268-804d-4468-a7f0-e217100b5293,electronic.baby,resell,,,high,low,10,"Spaceship, Inc.",30/06/2026 13:16,30/06/2027 23:59,26/09/2026 05:47
 a1c8e3bf-632a-45ff-bc30-33c70bff1513,morning.baby,available,1.99,53.72,high,low,7,dynadot,,,28/09/2026 01:56
@@ -265,7 +282,8 @@ a1c8e3bf-632a-45ff-bc30-33c70bff1513,morning.baby,available,1.99,53.72,high,low,
 b00b7f83-087a-46a7-b274-fe58e6703232,inertial.baby,available,1.8,81.98,medium,low,8,namecheap,,,22/08/2026 03:59
 db1d6306-d23f-4dab-9dda-5e34609d91ed,jargon.baby,available,1.8,81.98,high,low,6,namecheap,,,13/09/2026 04:10
 f2830245-0a9e-4bc6-bc30-ba3e93e38bab,dosed.baby,available,1.8,81.98,medium,low,5,namecheap,,,14/08/2026 16:24
-96c90b5c-666d-4cc3-97e2-77f919eedc5b,fame.baby,available,17.99,54.99,high,low,4,namesilo,,,
+96c90b5c-666d-4cc3-97e2-77f919eedc5b,fame.baby,available,1.8,81.98,high,low,4,namecheap,,,28/09/2026 07:34
+7da23029-82b7-4f65-b360-df039ba094af,rubble.baby,available,1.18,51.8,medium,low,6,spaceship,,,28/09/2026 18:54
 8f504443-1764-46af-9c71-9ec198e34b84,criticise.baby,available,17.99,54.99,medium,low,9,namesilo,,,
 9a780ce9-cbcb-45e5-8f26-aae854b5892f,fuel.baby,available,17.99,54.99,high,low,4,namesilo,,,25/09/2026 10:23
 f30aa059-e2b3-41a9-8abc-119ec5ce357e,ramble.baby,available,1.8,81.98,high,low,6,namecheap,,,10/09/2026 22:10
@@ -275,7 +293,7 @@ ea497ded-4eec-425e-a692-83995ec6c948,denny.baby,available,17.99,54.99,high,low,5
 bd2ffbfb-89d1-4898-bf3e-f9a37a7d25d2,loth.baby,available,1.8,81.98,medium,low,4,namecheap,,,24/08/2026 08:19
 570d5dc7-ba8b-4748-9451-c77338f135cb,tyke.baby,available,1.8,81.98,high,low,4,namecheap,,,25/08/2026 00:14
 eb9f4be3-4bff-49ac-97fd-325a7e12bf03,qtips.baby,available,17.99,54.99,medium,low,6,namesilo,,,17/09/2026 10:12
-8dc77798-92ba-4aa0-9a95-5285985c7086,personal.baby,available,17.99,54.99,high,low,8,namesilo,,,25/09/2026 04:57
+8dc77798-92ba-4aa0-9a95-5285985c7086,personal.baby,available,50.2,50.2,high,low,8,cloudflare,,,28/09/2026 12:58
 8b183422-b557-42f4-9b62-65d42ae12df8,stupendous.baby,available,1.8,81.98,high,low,10,namecheap,,,12/08/2026 18:00
 f152c46a-0434-4cf7-81d5-78c5844607d7,chewing.baby,available,17.99,54.99,high,low,7,namesilo,,,24/09/2026 14:24
 7baac3da-20e4-4c1d-97ac-1fb91086499e,telephone.baby,available,17.99,54.99,high,low,9,namesilo,,,26/09/2026 00:02
@@ -298,6 +316,7 @@ b2eb29b1-ee57-48d3-89cc-46cd3a9976b9,assistant.baby,resell,,,high,low,9,Dynadot 
 5c8eb08e-5629-4b8f-aa81-df0e6fdf6566,depot.baby,available,1.8,81.98,high,low,5,namecheap,,,11/09/2026 11:49
 4f410c9a-05ce-4b2d-9f99-2ed7a5217969,addon.baby,available,1.8,81.98,high,low,6,namecheap,,,17/09/2026 06:37
 cd748eb7-693c-47cb-ba24-ae6a90e4e171,aesthetics.baby,available,17.99,54.99,high,low,10,namesilo,,,17/09/2026 13:37
+b85f0a56-7c10-4ac3-b2c6-644d97922d5e,evanston.baby,available,1.8,81.98,medium,low,8,namecheap,,,28/09/2026 08:11
 c0e6bbeb-d33e-4c09-b88b-39aab8ec0a8d,unstudied.baby,available,1.8,81.98,medium,low,9,namecheap,,,12/09/2026 06:07
 e362d587-ddc1-4d13-be4d-0ea7fd6f47e8,bannister.baby,available,17.99,54.99,medium,low,9,namesilo,,,22/09/2026 00:23
 8aca3829-1007-4c2b-8e13-dc91c09a561c,heartleaf.baby,available,17.99,54.99,medium,low,9,namesilo,,,20/09/2026 12:53
@@ -322,11 +341,16 @@ ced6fff5-b66f-4827-ac4e-987e2cfc6767,dauntless.baby,available,17.99,54.99,high,l
 5cd08ea5-6520-4d11-9692-cb396fb97729,asmara.baby,available,17.99,54.99,medium,low,6,namesilo,,,20/09/2026 14:27
 56e3bf2f-90a6-4ce8-b742-2670cdfd31a6,mornings.baby,available,17.99,54.99,high,low,8,namesilo,,,20/09/2026 04:12
 357ca93f-9e91-4bc5-a8ce-b40afaadcf7c,copernican.baby,available,1.8,81.98,medium,low,10,namecheap,,,13/08/2026 00:26
+e4570b01-c64f-4fd3-8dbb-b161785ec435,hickman.baby,available,1.18,51.8,high,low,7,spaceship,,,28/09/2026 16:11
+1f81f831-e032-4b5d-bc23-9377eede9edd,manu.baby,available,1.99,53.72,high,low,4,dynadot,,,28/09/2026 11:11
+d7983e9d-e4ce-4c45-a63a-4ffad5b54dee,gabrielle.baby,available,50.2,50.2,medium,low,9,cloudflare,,,28/09/2026 21:50
 f83c3cfd-5cb2-4dc2-8904-e5321b9a86a5,datable.baby,available,29.99,94.99,medium,low,7,name.com,,,13/08/2026 18:36
+d81867cf-9799-48a4-a40a-7662ee219749,mummy.baby,available,50.2,50.2,high,low,5,cloudflare,,,28/09/2026 10:18
 b62addf5-c3aa-4cb3-9653-e850725d3d1b,bland.baby,available,17.99,54.99,medium,low,5,namesilo,,,22/09/2026 21:44
 c98289b9-ba11-49c9-9367-14d66b0a1c97,punishment.baby,available,17.99,54.99,high,low,10,namesilo,,,25/09/2026 09:51
 d84942c7-0ee2-47e0-a5e5-9690da74c8ec,pinochle.baby,available,1.8,81.98,medium,low,8,namecheap,,,23/09/2026 12:19
 c16ab422-05a3-41d2-a6df-5255d0c7ba16,know.baby,available,17.99,54.99,high,low,4,namesilo,,,
+47fba645-292d-4a39-b1dc-4a7a5dcc7c7c,strongest.baby,available,1.18,51.8,medium,low,9,spaceship,,,28/09/2026 12:52
 2fbb7a64-2045-4eb2-88ad-581e0888e2ea,jocund.baby,available,1.8,81.98,medium,low,6,namecheap,,,22/08/2026 13:40
 463d4500-74a8-41b2-9245-02bba49dc3bd,baltic.baby,available,1.8,81.98,high,low,6,namecheap,,,08/08/2026 10:41
 0603328c-e677-48e8-ac0c-146861c716d3,benzyl.baby,available,17.99,54.99,high,low,6,namesilo,,,23/09/2026 09:03
@@ -336,7 +360,9 @@ e186b4aa-d87b-40be-bd4c-52609211b87c,beguiled.baby,available,1.8,81.98,medium,lo
 dd6f5ca3-5813-4783-a551-a929d6afe0df,endogamic.baby,available,1.8,81.98,medium,low,9,namecheap,,,17/08/2026 01:11
 46f24175-6a07-45b4-b727-e76184ce99e1,blain.baby,available,1.8,81.98,medium,low,5,namecheap,,,24/09/2026 03:42
 800cb368-8ce1-4e46-9abe-a82653c4e6e9,providence.baby,available,17.99,54.99,high,low,10,namesilo,,,
+b8527ffa-1d94-4ac1-8ff4-e920c31a70d2,recorder.baby,available,17.99,54.99,high,low,8,namesilo,,,28/09/2026 09:46
 c487dc4c-3a3f-4430-9856-6f1d4a15b2b0,rousseauan.baby,available,1.8,81.98,high,medium,10,namecheap,,,09/09/2026 19:09
+c5951486-d690-4552-9e8c-f8d1addc7e45,teaches.baby,available,17.99,54.99,medium,low,7,namesilo,,,28/09/2026 08:58
 92306182-d1ed-4667-a271-bea69fd262d2,yelled.baby,available,17.99,54.99,high,low,6,namesilo,,,27/09/2026 21:26
 76010f6f-e3ed-46ab-a65c-96183865fbb4,cypriot.baby,available,29.99,94.99,medium,low,7,name.com,,,13/08/2026 14:08
 2a29f3d0-7e27-40be-be97-548b5b6a8fa1,gambian.baby,available,1.8,81.98,medium,low,7,namecheap,,,18/08/2026 19:48
@@ -350,16 +376,19 @@ e5ab25ee-c266-4d5f-8c11-078af34c374b,idempotent.baby,available,1.8,81.98,medium,
 66be5997-44ad-4a2b-beae-6975dd53e8de,famed.baby,available,1.8,81.98,high,low,5,namecheap,,,11/08/2026 23:12
 c1642d7e-fa5a-47da-b172-89846aba5395,provincial.baby,available,1.8,81.98,medium,low,10,namecheap,,,11/08/2026 07:37
 a934b43c-9395-4a5a-94d9-ec5e81d6dbfe,focussed.baby,available,1.8,81.98,high,low,8,namecheap,,,18/08/2026 09:47
+05ecbd2b-2ba5-48c8-9fef-5f0f30baa987,brody.baby,available,1.18,51.8,high,low,5,spaceship,,,28/09/2026 07:05
 d57d6cd8-77e1-42ce-af52-65b540b65334,came.baby,available,17.99,54.99,high,low,4,namesilo,,,
 a8aa08b1-7060-41e9-83fe-5595bf2d6217,hasten.baby,available,1.8,81.98,medium,low,6,namecheap,,,09/09/2026 19:47
 bf2e1d4a-43a6-466a-ade3-c021a32c6e49,gladsome.baby,available,1.8,81.98,high,low,8,namecheap,,,19/08/2026 00:13
 4f6e992c-31c6-4836-9327-bd886569c2fe,parentage.baby,available,1.8,81.98,medium,low,9,namecheap,,,08/09/2026 13:25
+e39bbaa4-dd84-41a0-94e9-7a4eb56ec5e0,monitors.baby,available,17.99,54.99,medium,low,8,namesilo,,,29/09/2026 00:02
 bf789585-76b4-4501-999e-d2305c8fa4de,axial.baby,available,17.99,54.99,high,low,5,namesilo,,,22/09/2026 15:33
 ef3c17d3-2fa7-422e-a82f-eee97dd3f6ab,chordal.baby,available,1.8,81.98,medium,low,7,namecheap,,,12/08/2026 07:06
 b90e22cb-b11f-4df9-8651-4a03da4af6eb,visible.baby,available,17.99,54.99,high,low,7,namesilo,,,27/09/2026 19:29
 ba37e39e-4e91-42b0-9d6c-288d09299d05,receipts.baby,available,17.99,54.99,high,low,8,namesilo,,,
 7901bbf6-49d1-4802-bc04-7b16e3da3c7c,amhara.baby,available,1.8,81.98,high,low,6,namecheap,,,18/09/2026 21:12
 3c9bb544-0152-4ed8-92b3-a3a4f42fe530,fundament.baby,available,1.8,81.98,medium,low,9,namecheap,,,09/08/2026 10:59
+451db10d-be70-4ca5-a229-3aad6a5f05d3,launching.baby,available,1.99,53.72,high,low,9,dynadot,,,29/09/2026 00:37
 58dcd842-1b68-4893-8c7e-70a47511b69f,bender.baby,available,1.8,81.98,high,low,6,namecheap,,,23/09/2026 07:44
 636dc7e4-6268-4186-87fd-43ae5fa187b4,unmapped.baby,available,1.8,81.98,medium,low,8,namecheap,,,12/08/2026 02:55
 b009bb14-1b6b-4946-bd42-d34eec06a4a5,crabby.baby,available,,,medium,low,6,,,,
@@ -380,6 +409,7 @@ df6af0a9-7192-4ff4-9b1b-4b0681910326,flutter.baby,available,1.8,81.98,high,low,7
 bcc24865-eae5-4e9e-9564-ebc1228a0b53,ghoulish.baby,available,1.8,81.98,medium,low,8,namecheap,,,18/08/2026 23:21
 4decc24f-de4d-412b-8caf-ee0dfdd7c249,barnburner.baby,available,17.99,54.99,medium,low,10,namesilo,,,22/09/2026 06:49
 f266d953-374f-4c14-8254-c254003a400d,suitable.baby,available,1.8,81.98,high,low,8,namecheap,,,28/09/2026 01:54
+37064af7-3b61-4156-b204-f747b630b9a2,smallest.baby,available,1.99,53.72,medium,low,8,dynadot,,,28/09/2026 17:15
 faf409f4-2802-4388-9e76-ed13d008bf16,geese.baby,available,17.99,54.99,medium,low,5,namesilo,,,
 1e1f46e0-fbab-4817-b0a8-129a67e96dcf,undesigned.baby,available,1.8,81.98,medium,low,10,namecheap,,,12/09/2026 07:46
 1bc8a58d-2f70-4a19-8243-4747305b5ae1,oceania.baby,available,17.99,54.99,high,low,7,namesilo,,,27/09/2026 15:02
@@ -394,7 +424,7 @@ d6fe051e-5675-42ac-b3c1-3769d625c6aa,batteries.baby,available,1.18,51.8,medium,l
 b3fb2996-37f4-4ea7-b29f-3d0d585ee48f,backbone.baby,available,1.8,81.98,high,low,9,namecheap,,,21/09/2026 15:14
 b0078bb8-0148-496d-b048-bf8ea93c99bf,ambrosia.baby,available,1.8,81.98,high,low,8,namecheap,,,18/09/2026 17:26
 691ef0c8-edc5-469f-947f-a438a03a1fbf,assigning.baby,available,17.99,54.99,high,low,9,namesilo,,,20/09/2026 16:26
-bf4c8aff-b69a-49d9-a431-85c3c166bb0d,lettuce.baby,available,29.99,,high,low,7,name.com,,,
+7ecc6a27-2299-4c39-972a-0a19cbb794ba,soo.baby,available,50.2,50.2,medium,low,3,cloudflare,,,28/09/2026 21:20
 25d5a8fb-8bd6-4ef9-b152-3f345dfe9ac6,vertebrate.baby,available,1.8,81.98,medium,low,10,namecheap,,,13/09/2026 04:35
 63503bb0-d80a-4519-bbed-e522ecd17ec1,impound.baby,available,1.8,81.98,high,low,7,namecheap,,,12/08/2026 21:04
 b361b141-8ca0-4a0c-b158-9e31f45bed1f,lag.baby,available,1.8,81.98,high,low,3,namecheap,,,25/09/2026 10:16
@@ -404,9 +434,11 @@ b361b141-8ca0-4a0c-b158-9e31f45bed1f,lag.baby,available,1.8,81.98,high,low,3,nam
 0f5458c1-e8e9-4714-9b54-649160f01df9,along.baby,available,17.99,54.99,high,high,5,namesilo,,,26/09/2026 00:12
 2926acfc-4546-4073-9f84-1e631e291c4e,fooling.baby,available,1.8,81.98,high,low,7,namecheap,,,18/08/2026 10:35
 12f9f611-1989-4fb2-8565-b8790b56c3e5,visioned.baby,available,17.99,54.99,high,low,8,namesilo,,,20/09/2026 16:28
+68081d04-ccac-48a4-966d-1d8ec445c122,excuses.baby,available,50.2,50.2,medium,low,7,cloudflare,,,28/09/2026 23:11
 ff88356b-2508-4cc6-86d1-a07dd71737de,purcell.baby,available,1.99,53.72,high,low,7,dynadot,,,28/09/2026 02:05
 93d9579f-ec5c-4c59-9e2d-9322684cdff3,unspaced.baby,available,1.8,81.98,low,low,8,namecheap,,,12/09/2026 20:24
-56f3e5e8-dd3c-4c50-afcd-ef7e704d5692,dominance.baby,available,17.99,54.99,high,low,9,namesilo,,,
+56f3e5e8-dd3c-4c50-afcd-ef7e704d5692,dominance.baby,available,17.99,54.99,high,low,9,namesilo,,,28/09/2026 22:25
+cd61e1c2-ba2f-4b8b-b22d-da1202154a92,salvatore.baby,available,17.99,54.99,medium,low,9,namesilo,,,28/09/2026 16:31
 c8d6383e-df9d-47bd-b8bc-705819af35e1,bastion.baby,available,1.8,81.98,high,low,7,namecheap,,,22/09/2026 12:50
 0b0f6e38-83eb-4b8c-a050-5f64de25f999,aphis.baby,available,17.99,54.99,medium,low,5,namesilo,,,19/09/2026 17:05
 618ed2fb-654f-4292-8298-2ade53e837ce,bunk.baby,available,1.8,81.98,medium,low,4,namecheap,,,03/09/2026 20:32
@@ -424,6 +456,7 @@ f5c3850e-7b82-4c61-9ab6-43ae513a487b,colourless.baby,available,1.8,81.98,medium,
 80fdf339-0c7e-41b2-8059-8eae3b2a0e1c,uncharted.baby,available,1.8,81.98,medium,low,9,namecheap,,,12/08/2026 02:53
 2648ac7d-9aee-4383-874d-ca7a299a4059,iniquity.baby,available,1.8,81.98,medium,low,8,namecheap,,,17/08/2026 15:08
 89ee433a-5c74-4abb-a336-4c0939aa6b1c,retreat.baby,available,17.99,54.99,high,low,7,namesilo,,,25/09/2026 13:32
+195e9dfb-59d7-4b7c-8c34-384e52dd9c27,assaulted.baby,available,1.18,51.8,low,low,9,spaceship,,,28/09/2026 18:18
 9c925dd8-7b87-4198-a018-56428b7bbc02,monopoly.baby,available,29.99,,high,low,8,name.com,,,
 62723ff2-7969-4384-8151-5d3b3947c125,tyrannical.baby,available,1.8,81.98,medium,low,10,namecheap,,,07/08/2026 19:12
 b8c60d57-2761-439b-bc38-e5f8233cd2b5,actor.baby,available,17.99,54.99,high,low,5,namesilo,,,28/09/2026 02:29
@@ -439,6 +472,7 @@ c79ab8ba-9301-4298-ad72-6fae38dabf3e,fated.baby,available,1.8,81.98,medium,low,5
 c624f7f0-41de-4ca1-b33a-81be843c658d,marietta.baby,available,50.2,50.2,high,low,8,cloudflare,,,28/09/2026 04:02
 871a7ada-00c8-46d9-be8b-3a6b127f4b75,equal.baby,available,1.8,81.98,high,low,5,namecheap,,,21/09/2026 18:27
 4f1a188b-eb02-49bf-ba75-2017979599e9,youngish.baby,available,1.8,81.98,medium,low,8,namecheap,,,13/09/2026 14:49
+d9b78ce1-1fc8-4da1-8d1f-2ee578538b19,beverley.baby,available,17.99,54.99,medium,low,8,namesilo,,,29/09/2026 00:09
 388ed079-f054-48f8-82ee-36551637dc1a,umber.baby,available,1.8,81.98,high,low,5,namecheap,,,11/09/2026 22:59
 ab336346-9eeb-4e70-aa7a-d25bf48eef15,metallic.baby,available,1.8,81.98,high,low,8,namecheap,,,24/08/2026 21:34
 9c1a2b2d-f2e1-43cb-b1fc-2bc874875476,whitehead.baby,available,17.99,54.99,high,low,9,namesilo,,,18/09/2026 06:40
@@ -448,16 +482,22 @@ af851037-1476-4e38-8345-62752c5a043f,silence.baby,available,1.8,81.98,high,low,7
 7d9e929f-6714-4c0b-b594-7a41a3e4cd4f,fixedly.baby,available,1.8,81.98,medium,low,7,namecheap,,,14/09/2026 18:44
 b0d177ba-605f-4f19-a628-d1ab93f489ef,keyed.baby,available,1.8,81.98,medium,low,5,namecheap,,,22/08/2026 15:42
 fe94fcdf-4f8e-4de6-9428-f01faf99d123,pekan.baby,available,17.99,54.99,medium,low,5,namesilo,,,24/09/2026 00:25
+4b76e4f8-e19b-42b2-b14b-f4521d0340e3,receiver.baby,available,17.99,54.99,high,low,8,namesilo,,,28/09/2026 10:40
+9e8df84a-6b5f-4ec8-ae8d-4ba909b1694d,proposing.baby,available,1.18,51.8,low,low,9,spaceship,,,28/09/2026 22:53
 59739033-284c-49d9-9d01-06c5b2d02a44,viewless.baby,available,1.8,81.98,medium,low,8,namecheap,,,13/09/2026 05:40
+bdfa970d-5596-4e94-b103-b08ccddf5924,surfing.baby,available,17.99,54.99,high,low,7,namesilo,,,29/09/2026 02:15
 d4423dd8-2390-41e8-9318-eb9cc1c7c656,sportsperson.baby,available,17.99,54.99,high,low,12,namesilo,,,16/09/2026 08:58
 b15f26d8-1ba0-4567-a4aa-f91c9e54879c,pourboire.baby,available,29.99,94.99,medium,low,9,name.com,,,21/09/2026 15:52
+60e63fd2-f074-458e-aca5-e96271043726,grenville.baby,available,17.99,54.99,medium,low,9,namesilo,,,29/09/2026 04:31
 464cd701-ff31-441a-ad8d-836ee9830fd9,boyne.baby,available,17.99,54.99,medium,low,5,namesilo,,,22/09/2026 14:51
 2ad0ebe0-b415-46e0-8620-ae4084aaea45,wrote.baby,available,17.99,54.99,medium,low,5,namesilo,,,
 4b792bc4-8c53-4b96-be71-8fea80646ae6,gleaming.baby,available,1.8,81.98,high,low,8,namecheap,,,
 92e307f8-78f5-4628-a05a-ba88785c76be,dna.baby,resell,,,high,medium,3,1API GmbH,05/04/2019 03:27,05/04/2027 23:59,26/09/2026 05:37
+f087eb19-81f3-442a-a3f9-aca48ad4b79b,telescope.baby,available,50.2,50.2,high,low,9,cloudflare,,,28/09/2026 20:36
 1dde517a-eb53-47f6-bfca-82fa7aaaa6ab,seared.baby,available,1.8,81.98,medium,low,6,namecheap,,,10/09/2026 00:52
 84efedf8-00a9-4f22-a235-f4ba4b472ad1,petty.baby,available,1.8,81.98,high,low,5,namecheap,,,24/09/2026 17:49
 e360e3fb-5bc0-46de-ae88-4d819b431e07,charily.baby,available,1.8,81.98,medium,low,7,namecheap,,,14/09/2026 06:17
+39d53c4c-019e-441f-80ec-2e577042bddd,brownsville.baby,available,17.99,54.99,medium,low,11,namesilo,,,28/09/2026 08:10
 b7e80767-c0eb-456a-b1c3-6800cfe086f2,precast.baby,available,1.8,81.98,high,low,7,namecheap,,,16/09/2026 01:12
 130a0b01-077f-46e1-8804-020e508f8e5f,doubts.baby,available,1.8,81.98,low,low,6,namecheap,,,28/09/2026 04:45
 666fcbb9-4d4b-4eb7-afb4-6ef42caa5141,dogwalking.baby,available,1.8,81.98,high,low,10,namecheap,,,18/09/2026 19:10
@@ -468,15 +508,17 @@ a25488c0-776a-4009-a018-9a13946404e7,supports.baby,available,17.99,54.99,medium,
 51c31c43-f82c-4577-b932-ee4b6821f6f1,calhoun.baby,available,17.99,54.99,medium,low,7,namesilo,,,27/09/2026 03:19
 0bc9f465-99bf-4f72-a963-29636da56961,bionomics.baby,available,1.8,81.98,medium,low,9,namecheap,,,23/09/2026 18:43
 0f4b3607-297d-42e6-83ea-cf9f790d56d8,necromancy.baby,available,17.99,54.99,medium,low,10,namesilo,,,23/09/2026 23:53
+29084004-c876-4c15-bdca-1b043f6fb95b,incompetent.baby,available,1.18,51.8,medium,low,11,spaceship,,,28/09/2026 21:19
+63e8a918-ed8c-4fde-a709-bd8347c1c568,bor.baby,available,17.99,54.99,medium,low,3,namesilo,,,29/09/2026 02:55
 442fc1c4-914d-4b50-a5a8-68071793a5bc,hit.baby,resell,,,high,high,3,"Spaceship, Inc.",14/03/2026 21:56,14/03/2027 23:59,26/09/2026 06:40
 0f61b948-f739-4fd8-a26f-6857ef3be256,whop.baby,available,17.99,54.99,high,low,4,namesilo,,,22/09/2026 10:29
-34dbc78f-111d-4153-9b22-01d49d1219f4,explorer.baby,available,29.99,,high,low,8,name.com,,,
+34dbc78f-111d-4153-9b22-01d49d1219f4,explorer.baby,available,50.2,50.2,high,low,8,cloudflare,,,28/09/2026 15:17
 a199acf8-7a71-4679-82cf-abf9d001cc3a,fable.baby,resell,,,high,low,5,Dynadot Inc,30/01/2026 06:40,30/01/2027 23:59,26/09/2026 05:59
 b3022abf-c4ae-45ab-89aa-e64086d22a86,seventh.baby,available,1.8,81.98,high,low,7,namecheap,,,
 47230258-e26f-444f-938f-348084d4c733,manners.baby,available,17.99,54.99,high,low,7,namesilo,,,27/09/2026 04:41
 1c67bb54-0be7-45c7-b8a9-4c4a6561c091,detour.baby,available,17.99,54.99,high,low,6,namesilo,,,
 45e6aac3-0406-49f9-b68f-fa9abf4d394c,gala.baby,available,1.8,81.98,high,low,4,namecheap,,,25/09/2026 10:25
-0eabe26a-e8ac-4448-aaf1-dc058071dc85,address.baby,available,1.8,81.98,high,low,7,namecheap,,,24/09/2026 02:37
+0eabe26a-e8ac-4448-aaf1-dc058071dc85,address.baby,available,1.18,51.8,high,low,7,spaceship,,,28/09/2026 06:48
 bf4fdb31-03a4-4cb8-bbf8-d9ebe3846c2d,innovator.baby,available,1.8,81.98,high,low,9,namecheap,,,28/09/2026 02:49
 9b26c1d5-4743-4286-a781-90a56785916c,malayan.baby,available,1.8,81.98,medium,low,7,namecheap,,,24/08/2026 13:44
 fc938753-5e86-47a0-a8a9-79d24f2f376d,enclothe.baby,available,1.8,81.98,medium,low,8,namecheap,,,19/09/2026 19:54
@@ -485,12 +527,13 @@ fc938753-5e86-47a0-a8a9-79d24f2f376d,enclothe.baby,available,1.8,81.98,medium,lo
 ffa34641-3f9a-4409-8a23-37070a732cab,cloistered.baby,available,1.8,81.98,medium,low,10,namecheap,,,12/08/2026 11:48
 4fcdc0d1-7749-4c76-896f-19576befbd5f,adhd.baby,available,17.99,54.99,high,medium,4,namesilo,,,17/09/2026 06:35
 81050c75-4d60-4628-ad86-d3e59cca43bd,scenes.baby,available,17.99,54.99,medium,low,6,namesilo,,,18/09/2026 15:27
-a8c9c1c1-74f1-41fb-8653-94f1de58981b,situation.baby,available,17.99,54.99,high,low,9,namesilo,,,
+a8c9c1c1-74f1-41fb-8653-94f1de58981b,situation.baby,available,1.8,81.98,high,low,9,namecheap,,,29/09/2026 02:15
 cb68a97a-e21e-4877-8c70-2f88030baec6,frustrated.baby,available,17.99,54.99,medium,low,10,namesilo,,,24/09/2026 10:57
 d525b831-5152-4701-90ef-97d435ae85b1,restriction.baby,available,17.99,54.99,high,low,11,namesilo,,,
 fbe0c6d2-01e3-49c2-b2a3-937feac4ebdc,cxl.baby,available,,,high,low,3,,,,
 ee5b6bc9-4546-4526-bf7f-cabc0e54d02a,labored.baby,available,1.8,81.98,medium,low,7,namecheap,,,22/08/2026 17:34
 f287c55c-1d12-4831-b6d7-c31e6479ca2c,whistle.baby,available,1.8,81.98,high,low,7,namecheap,,,25/09/2026 23:59
+54e8a5f0-13a0-4494-bfc5-e13986c28dce,wheatley.baby,available,50.2,50.2,medium,low,8,cloudflare,,,29/09/2026 01:49
 14fc5c9f-da59-4596-a8fa-906235025bdd,reduce.baby,available,17.99,54.99,high,low,6,namesilo,,,24/09/2026 08:28
 7e5d1fa9-af70-4426-afb0-b38cbf062411,hindustani.baby,available,1.8,81.98,medium,low,10,namecheap,,,21/08/2026 09:35
 fc3f014e-2948-4dd6-bd7f-3191cd08b6f7,poison.baby,available,1.8,81.98,high,low,6,namecheap,,,11/09/2026 18:25
@@ -532,13 +575,16 @@ eb2718b9-b398-4b83-be5e-556dea5e8010,sunbaked.baby,available,1.8,81.98,medium,lo
 9ee5e52b-57eb-4e5c-8c0d-8d10296fe865,contemplation.baby,available,17.99,54.99,medium,low,13,namesilo,,,16/09/2026 21:40
 10ee6e30-c948-425c-a95e-5ab228cb822e,heterodyne.baby,available,1.8,81.98,medium,low,10,namecheap,,,21/08/2026 07:29
 ff1dae3e-2d22-4d55-958f-b4e4cf9c19b8,ethically.baby,available,1.8,81.98,high,low,9,namecheap,,,14/09/2026 16:20
+6397ac4e-dc7f-44e8-9f9f-4001b70467d9,maude.baby,available,50.2,50.2,medium,low,5,cloudflare,,,28/09/2026 12:05
 3bd0a1b4-d594-4955-a5e3-8654d94585d5,salable.baby,available,1.8,81.98,high,medium,7,namecheap,,,09/09/2026 20:50
+7aea1858-6f89-4bdb-9687-fa2b91365f28,mahler.baby,available,50.2,50.2,medium,low,6,cloudflare,,,29/09/2026 01:10
 21456d4d-f49c-4fef-b88c-e606e56b301e,closure.baby,available,17.99,54.99,high,low,7,namesilo,,,24/09/2026 15:56
 f03a9f93-e9e7-46d7-a940-210009592b96,vapourish.baby,available,1.8,81.98,medium,low,9,namecheap,,,13/09/2026 01:13
 02c0d523-3e3a-4b6b-ba45-02a97bd1228f,arriver.baby,available,1.8,81.98,medium,low,7,namecheap,,,20/09/2026 09:16
 3b7c7dc3-46bf-483f-b0c7-d8b30894372f,ignore.baby,available,1.8,81.98,high,low,6,namecheap,,,27/09/2026 23:32
 913bb609-5cc5-46e3-844f-47e6192506a5,bast.baby,available,17.99,54.99,medium,low,4,namesilo,,,22/09/2026 12:38
 5a3df957-8af9-4b2c-9e20-6d9399af3e1c,barony.baby,available,17.99,54.99,medium,low,6,namesilo,,,22/09/2026 07:36
+b814b6bc-017e-4041-bf5e-4802522d1a7c,classics.baby,available,1.18,51.8,high,low,8,spaceship,,,28/09/2026 13:44
 233e99a4-08e1-40bd-bd73-cbd7d441d0de,tunas.baby,available,17.99,54.99,medium,low,5,namesilo,,,19/09/2026 22:09
 2f7eb099-63bd-452a-8eda-01cbe7d1a8ad,inane.baby,available,1.8,81.98,medium,low,5,namecheap,,,07/08/2026 02:43
 8f2c30bb-d5cd-485a-a14f-81604e6348d8,roughish.baby,available,1.8,81.98,high,medium,8,namecheap,,,09/09/2026 19:01
@@ -549,6 +595,7 @@ b5dec11e-134c-4111-b1d9-114923b287c5,stemmed.baby,available,1.8,81.98,medium,low
 886ad901-cd90-46cf-b490-761e70ac6d40,milk.baby,resell,,,high,low,4,Dynadot Inc,13/02/2026 01:26,13/02/2027 23:59,26/09/2026 07:33
 2f928a4d-7916-488d-a835-90b070e68f1b,complexity.baby,available,1.8,81.98,high,low,10,namecheap,,,24/09/2026 16:49
 15340c81-aa23-4b50-bd70-a12968dabe9c,provencal.baby,available,1.8,81.98,medium,low,9,namecheap,,,09/09/2026 04:28
+b1301798-b4c6-4e9e-a1b8-b899e6b87a1c,flaw.baby,available,17.99,54.99,medium,low,4,namesilo,,,29/09/2026 00:57
 7b0f924d-11ff-45cd-8657-517be9966a0b,umpire.baby,available,17.99,54.99,medium,low,6,namesilo,,,20/09/2026 00:47
 06967fa8-4908-49f3-894e-dd05d0212709,workfare.baby,available,17.99,54.99,medium,low,8,namesilo,,,
 ea5eda83-8de6-48cf-8ea4-bd1e6fda7cc5,skulls.baby,available,17.99,54.99,medium,low,6,namesilo,,,20/09/2026 10:31
@@ -557,11 +604,11 @@ ea5eda83-8de6-48cf-8ea4-bd1e6fda7cc5,skulls.baby,available,17.99,54.99,medium,lo
 44f2e25b-7a88-45a0-9688-ce94ac577d8c,depress.baby,available,17.99,54.99,high,low,7,namesilo,,,
 655b5d01-55e8-40c3-ac05-3526d21c5e4b,brutal.baby,resell,,,medium,low,6,"Spaceship, Inc.",08/07/2026 08:56,08/07/2027 23:59,26/09/2026 04:38
 5deb1a0b-a679-4204-a436-fbd821d74100,berra.baby,available,17.99,54.99,medium,low,5,namesilo,,,23/09/2026 10:04
-620f304a-9050-43f7-9db4-5993b6c9c6e2,voting.baby,premium,242,53.92,high,low,6,namesilo,,,
 0da9157a-1a5f-4a0c-99e9-e2cdf138ec83,connections.baby,available,1.18,51.8,high,low,11,spaceship,,,27/09/2026 23:11
 f2769fa9-34f8-4e0a-bda8-631d34af117c,dixon.baby,available,17.99,54.99,medium,low,5,namesilo,,,25/09/2026 17:44
 b61b7a5b-c4c9-490d-969b-8f3edba0d6c5,punitive.baby,available,1.8,81.98,high,medium,8,namecheap,,,09/09/2026 06:02
 4635d6e2-8a45-4cae-81e3-e8d990af7afc,infallible.baby,available,1.8,81.98,high,low,10,namecheap,,,22/08/2026 04:05
+cb578188-c441-483c-b99f-e84c316f6022,fellowship.baby,available,1.18,51.8,high,low,10,spaceship,,,28/09/2026 09:26
 2091bf45-e6d4-43f3-a0c6-ba1b2217b85e,debate.baby,available,17.99,54.99,high,low,6,namesilo,,,24/09/2026 05:29
 4a68bd41-aff8-450a-85d8-aeb6ed790828,impress.baby,available,17.99,54.99,high,low,7,namesilo,,,
 7559743a-49fc-46b1-8aa3-72ce5862484c,firing.baby,available,17.99,54.99,high,low,6,namesilo,,,27/09/2026 03:58
@@ -591,19 +638,23 @@ d9946225-bace-4a1f-ad96-9cd2127f80f3,mortified.baby,available,1.8,81.98,medium,l
 a9809096-1b67-411b-bf7f-66ef0699079b,sexual.baby,available,1.18,51.8,high,low,6,spaceship,,,27/09/2026 20:20
 e27ea7c6-af27-4b99-a2a1-73ab447226f0,lexical.baby,available,1.8,81.98,medium,low,7,namecheap,,,23/08/2026 00:42
 8a70e44c-4fec-4298-9103-9e6c8812e8f0,appoint.baby,available,17.99,54.99,high,low,7,namesilo,,,
+8a7d4fd2-0b78-4941-a658-be965fc7258b,cheaper.baby,available,1.18,51.8,low,low,7,spaceship,,,28/09/2026 08:27
 658f1651-bde0-4a8d-88b5-4f6514e832ff,nottingham.baby,available,17.99,54.99,high,low,10,namesilo,,,26/09/2026 00:49
 4e036d68-65c4-4c1b-a6e1-1989563941ff,rockbound.baby,available,1.8,81.98,medium,low,9,namecheap,,,09/09/2026 18:10
 1aea2aac-5c49-425b-b548-0edfefafc59f,ombu.baby,available,1.8,81.98,medium,low,4,namecheap,,,23/09/2026 05:53
-2371c2b2-541e-4f59-964a-cb4f5c998626,entertain.baby,available,1.8,81.98,high,low,9,namecheap,,,24/09/2026 02:50
+2371c2b2-541e-4f59-964a-cb4f5c998626,entertain.baby,available,50.2,50.2,high,low,9,cloudflare,,,28/09/2026 06:53
 f7447adf-292e-48ae-8524-aa25064de7c5,mutilated.baby,available,1.8,81.98,medium,low,9,namecheap,,,24/08/2026 13:22
 45eb3797-4607-4dbb-9bac-2c65e0fabca3,comparable.baby,available,17.99,54.99,high,low,10,namesilo,,,23/09/2026 16:34
 89e74e31-0e13-4d5e-97d2-a447229dd89c,toupeed.baby,available,1.8,81.98,low,low,7,namecheap,,,11/09/2026 18:18
+b746b265-d2c7-473a-9fe9-dde1e764037e,fia.baby,available,17.99,54.99,medium,low,3,namesilo,,,28/09/2026 09:02
+3c7cc954-1612-46ce-904f-4ca1992b86a9,processing.baby,available,50.2,50.2,high,low,10,cloudflare,,,28/09/2026 15:08
 1e0013d5-0351-48fa-81b0-e84731541a41,dance.baby,resell,,,high,low,5,"Spaceship, Inc.",15/07/2026 20:53,15/07/2027 23:59,26/09/2026 05:24
 2fe3fe9b-f144-48c2-9fe7-3d07b4350b3d,improvised.baby,available,1.8,81.98,high,low,10,namecheap,,,21/08/2026 23:19
 0bb172ee-033c-41ea-bd9e-6827f88c31aa,guffaw.baby,available,1.8,81.98,high,low,6,namecheap,,,23/09/2026 06:41
 c624e31b-f68b-422b-9978-6192c772a3f1,floors.baby,available,17.99,54.99,medium,low,6,namesilo,,,27/09/2026 22:02
 ce70f502-f7ce-4f5f-8d04-adde2ba03295,prandial.baby,available,1.8,81.98,high,medium,8,namecheap,,,09/09/2026 01:04
-257064c3-2bea-42dc-a3cf-e7e66c1dee73,somehow.baby,available,29.99,,high,low,7,name.com,,,
+257064c3-2bea-42dc-a3cf-e7e66c1dee73,somehow.baby,available,1.18,51.8,medium,low,7,spaceship,,,28/09/2026 15:41
+978ddf5d-9595-4485-b44f-106f19348cd1,verge.baby,available,1.18,51.8,high,low,5,spaceship,,,28/09/2026 18:30
 bcf06cdb-914b-400d-9049-512cff6b6242,libber.baby,available,1.8,81.98,medium,low,6,namecheap,,,18/08/2026 01:03
 841219dc-b346-43aa-a730-19ecf1129d83,beet.baby,available,17.99,54.99,high,low,4,namesilo,,,23/09/2026 01:49
 d55e5c46-3374-4b0b-a413-1ff5c6d4a645,infantile.baby,available,1.8,81.98,high,low,9,namecheap,,,12/08/2026 05:04
@@ -639,7 +690,7 @@ cd6a90b7-7f14-4623-8b1d-d8a64d67d4df,trifle.baby,available,1.8,81.98,high,low,6,
 c94ac045-84ad-4375-af92-b07bb5564b78,stony.baby,available,1.8,81.98,medium,low,5,namecheap,,,10/08/2026 21:45
 ef061b9b-4fda-44eb-aaf8-ca6c1e0644c3,sib.baby,available,1.8,81.98,medium,low,3,namecheap,,,12/08/2026 15:48
 f4085f8d-71c2-46e3-9056-311e85d0dd6a,illative.baby,available,1.8,81.98,medium,low,8,namecheap,,,21/08/2026 19:47
-94ee1032-9d2c-4420-8516-26ca8c4ff74a,wagon.baby,available,17.99,54.99,high,low,5,namesilo,,,
+94ee1032-9d2c-4420-8516-26ca8c4ff74a,wagon.baby,available,1.18,51.8,medium,low,5,spaceship,,,29/09/2026 01:37
 8e874c5f-c68a-4bc2-8e7f-e6949e3fe2a6,dank.baby,available,1.8,81.98,high,low,4,namecheap,,,12/08/2026 09:24
 1bdcd9cb-f6a2-4a16-8dea-3146139cffe5,negotiate.baby,available,17.99,54.99,high,low,9,namesilo,,,
 92e40d50-b44c-4142-ac75-bdf9d39452bb,affixed.baby,available,1.8,81.98,medium,low,7,namecheap,,,
@@ -648,9 +699,10 @@ dd47805e-5f40-43be-8c59-d55c2217085f,farmers.baby,available,17.99,54.99,high,med
 eadccd81-a136-4a82-96fb-e0ae3b866e29,alzheimers.baby,available,17.99,54.99,medium,low,10,namesilo,,,18/09/2026 15:29
 994eec8b-ec6b-4646-99ce-17b1cc2fd407,stairs.baby,available,17.99,54.99,high,low,6,namesilo,,,
 aa833225-0d32-40fb-beb0-4113b3873a9a,apathetic.baby,available,1.8,81.98,medium,low,9,namecheap,,,05/08/2026 22:04
+947b5cfa-2123-451c-94db-0db82d3e7a7f,warmth.baby,available,17.99,54.99,high,low,6,namesilo,,,28/09/2026 11:06
 83b5199e-d277-404d-87d8-b3c0a6c35e6d,epistemic.baby,available,1.8,81.98,medium,low,9,namecheap,,,17/08/2026 11:13
 55d1e113-6ff1-4543-92a8-ea644557c8a0,unearned.baby,available,1.8,81.98,medium,low,8,namecheap,,,12/09/2026 08:43
-076ec67a-2337-4da3-9417-64abc977d035,videogames.baby,available,17.99,54.99,medium,low,11,namesilo,,,23/09/2026 20:46
+076ec67a-2337-4da3-9417-64abc977d035,videogames.baby,available,1.54,52.01,medium,low,11,porkbun,,,28/09/2026 06:42
 75719642-f654-4a5d-8c56-9371f62861db,wipe.baby,available,1.18,51.8,high,low,4,spaceship,,,27/09/2026 16:23
 d4c3f856-d3e6-4d00-a2b4-80b9b234086f,viewer.baby,available,17.99,54.99,high,low,6,namesilo,,,
 f6bd1844-85cb-4da2-ae1a-efcf7fbc28a6,casino.baby,resell,,,high,medium,6,,,,27/09/2026 12:19
@@ -658,6 +710,7 @@ f6bd1844-85cb-4da2-ae1a-efcf7fbc28a6,casino.baby,resell,,,high,medium,6,,,,27/09
 a2efeefc-738c-4bdc-889d-608402737c0c,attenuator.baby,available,17.99,54.99,medium,low,10,namesilo,,,21/09/2026 01:34
 b433fa2a-03b1-4112-9a66-7b187c5b845b,barycenter.baby,available,1.8,81.98,medium,low,10,namecheap,,,22/09/2026 09:39
 770faa8c-894e-4cd4-8e3f-c49ae63993c8,riled.baby,available,1.8,81.98,medium,low,5,namecheap,,,
+9931fd5b-bb69-4997-8096-d97c0d191c2a,vidal.baby,available,1.54,52.01,medium,low,5,porkbun,,,28/09/2026 14:04
 53fad6b0-6cb1-4980-82de-14c70d9b245a,movie.baby,resell,,,high,low,5,"Spaceship, Inc.",20/12/2025 20:50,20/12/2026 23:59,28/09/2026 03:21
 0d117190-1d8c-44fb-9cc6-d4bc889c522c,bane.baby,available,17.99,54.99,medium,low,4,namesilo,,,22/09/2026 01:39
 769c33f2-8ae6-46ae-9d42-3cd432a9dd3f,faux.baby,available,1.8,81.98,high,low,4,namecheap,,,18/08/2026 00:12
@@ -677,8 +730,9 @@ de4b55eb-29f2-4afc-8961-d1bb296926f0,klaus.baby,available,17.99,54.99,medium,low
 7b81d8e6-4fd8-41b0-a481-0f8412a577bf,acquittal.baby,available,1.8,81.98,high,low,9,namecheap,,,17/09/2026 02:42
 ea3a3865-2a67-444d-aea4-45e94eea1035,atelier.baby,available,17.99,54.99,high,medium,7,namesilo,,,20/09/2026 11:53
 8c315abb-f67d-48f1-9de5-c9ee8d6358b8,arthurian.baby,available,1.8,81.98,medium,low,9,namecheap,,,06/08/2026 23:21
+c09c0614-0f51-4eff-87eb-d49f889296a0,burton.baby,available,1.18,51.8,high,low,6,spaceship,,,28/09/2026 18:31
 152bfbbf-bde1-4f63-bed9-c18f393b1e1f,loopy.baby,available,1.8,81.98,medium,low,5,namecheap,,,06/08/2026 21:22
-38c151fb-9ec6-444b-bc93-93ac9f3ba670,tragic.baby,available,17.99,54.99,high,low,6,namesilo,,,
+38c151fb-9ec6-444b-bc93-93ac9f3ba670,tragic.baby,available,1.54,52.01,medium,low,6,porkbun,,,28/09/2026 09:28
 14f73773-d484-4f56-9073-4ab43bfceacb,blind.baby,available,17.99,54.99,high,low,5,namesilo,,,22/09/2026 21:56
 f1a78eb4-1ddc-49f0-a98d-57ffdd35efbe,acuate.baby,available,1.8,81.98,medium,low,6,namecheap,,,
 953bff16-6ae9-4a3d-a018-a2213fba788b,hothead.baby,available,29.99,94.99,medium,low,7,name.com,,,13/08/2026 17:45
@@ -687,6 +741,7 @@ c34ffc2b-bc26-4b7d-9d80-f2b78075a268,provinces.baby,available,17.99,54.99,medium
 0d150c6d-591c-4da2-b1ca-2461e70767fc,wulfila.baby,available,17.99,54.99,medium,low,7,namesilo,,,23/09/2026 21:57
 1d2a2fd5-8ccc-4ce6-9114-c259dd51d575,plutonium.baby,available,1.8,81.98,high,low,9,namecheap,,,21/09/2026 00:12
 7a0db7ca-cee8-4baa-baaf-c67430e36a18,grill.baby,available,17.99,54.99,high,low,5,namesilo,,,28/09/2026 05:54
+497807f9-be9f-48c6-95ea-80dda2859e4b,macy.baby,available,1.8,81.98,medium,low,4,namecheap,,,28/09/2026 22:01
 1364195c-367d-4202-9c9f-6253d0eaf581,bloomfield.baby,available,17.99,54.99,high,low,10,namesilo,,,25/09/2026 21:57
 c1ad839b-5218-4b2f-8ce4-5e3848cb81bd,exterior.baby,available,1.8,81.98,high,low,8,namecheap,,,17/08/2026 19:05
 18bef544-78f4-4e61-95e6-f9ee28949081,scrambled.baby,available,1.8,81.98,high,low,9,namecheap,,,09/09/2026 23:46
@@ -697,6 +752,7 @@ ee62971c-9082-44f5-af6a-25fcbebddc09,savory.baby,available,1.8,81.98,high,low,6,
 a025b552-58bd-40cf-9c1b-335321a04fd0,adynamic.baby,available,1.8,81.98,medium,low,8,namecheap,,,
 754da6b9-83ab-419a-9ea6-2e77f7601052,skimmed.baby,available,1.8,81.98,medium,low,7,namecheap,,,10/09/2026 09:34
 59bd7696-51cc-4c7a-82d1-bc7ea5a36b10,austrian.baby,available,17.99,54.99,high,low,8,namesilo,,,22/09/2026 13:38
+2d06269c-b3fc-4573-90eb-981da20b0d71,janitor.baby,available,50.2,50.2,medium,low,7,cloudflare,,,28/09/2026 19:32
 3916d041-fdd4-4a69-9ef3-11adf0b518d5,lemony.baby,available,1.8,81.98,high,low,6,namecheap,,,22/08/2026 23:24
 68b7c86e-2443-4570-a4bc-831b03861508,offhand.baby,available,1.8,81.98,medium,low,7,namecheap,,,
 1753d064-1289-4520-9dcf-f48c15f092f8,alta.baby,available,17.99,54.99,high,low,4,namesilo,,,25/09/2026 13:59
@@ -708,6 +764,7 @@ a025b552-58bd-40cf-9c1b-335321a04fd0,adynamic.baby,available,1.8,81.98,medium,lo
 f2c19eae-7ade-4601-b776-45b0b9dc5112,nifty.baby,available,1.8,81.98,high,low,5,namecheap,,,08/08/2026 12:38
 8f886ae3-7018-4b94-a8d6-edc568821413,dialectal.baby,available,1.8,81.98,medium,low,9,namecheap,,,14/08/2026 05:48
 19397941-cdea-461c-a0d0-e5bf61b50465,empowering.baby,available,17.99,54.99,high,low,10,namesilo,,,
+3f992d88-72af-4975-a683-1311f7ba7863,portfolio.baby,resell,,,high,low,9,,,,28/09/2026 20:13
 a59722ed-4ffc-47a0-bf40-2e0c84b2372c,rossi.baby,available,17.99,54.99,high,low,5,namesilo,,,27/09/2026 01:41
 65af5f32-7f6f-4dc8-9ef5-e4dbc05a0d94,napoleonic.baby,available,1.8,81.98,medium,low,10,namecheap,,,03/09/2026 13:00
 8aeac708-7351-4dbe-9c19-e2412d781ee6,ponderable.baby,available,1.8,81.98,medium,low,10,namecheap,,,12/08/2026 15:42
@@ -717,6 +774,7 @@ af7f6252-f612-4ac3-825b-0a2e328177b1,macon.baby,available,1.8,81.98,high,low,5,n
 c31f06f3-7e0e-443d-a4a4-837883c25e71,zygomatic.baby,available,1.8,81.98,medium,low,9,namecheap,,,13/09/2026 15:39
 83056557-97dd-44ce-bda9-524c882a6e48,presenter.baby,available,17.99,54.99,high,low,9,namesilo,,,23/09/2026 10:46
 a0e52395-b286-4d63-ba23-890b0a4f5366,scag.baby,available,17.99,54.99,medium,low,4,namesilo,,,23/09/2026 14:40
+fd2c9341-f8f4-4a06-95b2-93cbf83b5497,tuned.baby,available,50.2,50.2,medium,low,5,cloudflare,,,28/09/2026 12:55
 d2839639-8783-42e7-9c65-10c634bec808,braces.baby,available,17.99,54.99,high,low,6,namesilo,,,24/09/2026 07:52
 659e7e38-3a61-4de9-adc0-d239af3b948d,abrupt.baby,available,1.8,81.98,high,low,6,namecheap,,,
 bee4f99e-f8fa-4b4d-8536-de2b76f0e101,bookish.baby,available,1.8,81.98,high,low,7,namecheap,,,10/08/2026 19:09
@@ -727,6 +785,7 @@ a44c023a-11db-41f0-a4c9-f5d6ba7f3353,caffeine.baby,available,17.99,54.99,high,lo
 637f904f-98f8-45c3-b750-50079d9924cd,diva.baby,available,1.8,81.98,high,low,4,namecheap,,,25/09/2026 09:28
 8027152a-b212-4704-b0b8-a9f3b5b5aab6,roses.baby,available,1.8,81.98,high,low,5,namecheap,,,17/09/2026 21:17
 4ed05ae2-3956-4203-bd3b-4aab1c56ceed,saami.baby,available,1.8,81.98,high,medium,5,namecheap,,,09/09/2026 21:07
+f0fab832-5e9a-4505-9f3c-3656f407604d,celebrities.baby,available,1.18,51.8,medium,low,11,spaceship,,,28/09/2026 23:49
 cde96947-4f69-4a49-bee9-ce18dfdb91c3,upended.baby,available,1.8,81.98,medium,low,7,namecheap,,,12/09/2026 23:06
 8fcb34ae-dd13-46d7-97f6-4756b07108f6,streetfighter.baby,available,29.99,,medium,low,14,name.com,,,
 a5b56651-d807-43e7-a5e9-62fe361b7845,chagrined.baby,available,1.8,81.98,medium,low,9,namecheap,,,
@@ -739,23 +798,27 @@ bf3aff34-bfe9-476a-a9bb-f1817229c969,fees.baby,available,17.99,54.99,high,low,4,
 d2bfa032-bcda-4722-8b1a-f215d7f6df51,auricula.baby,available,17.99,54.99,medium,low,8,namesilo,,,21/09/2026 04:20
 c374f63c-dca8-42d6-aaf5-1f422fbc00ec,hunted.baby,available,1.8,81.98,medium,low,6,namecheap,,,21/08/2026 15:43
 7710a146-8b5a-4dd1-ac26-85b03ff6e311,maxilla.baby,available,1.8,81.98,medium,low,7,namecheap,,,24/08/2026 17:52
+49a32435-cf77-4335-9590-b95824a07040,unique.baby,resell,,,high,medium,6,,,,28/09/2026 09:43
 9209e7c9-6b83-4f3d-b31c-03c271553e61,diploma.baby,available,17.99,54.99,high,low,7,namesilo,,,
 d2b52ea1-c161-428e-831e-8f6d6c140e92,sperm.baby,available,17.99,54.99,high,low,5,namesilo,,,25/09/2026 14:14
 b172d903-89f4-4860-831c-29bfd10d4da0,smetana.baby,available,17.99,54.99,medium,low,7,namesilo,,,22/09/2026 23:32
+bd1e3bd9-05ce-4c98-b78d-764bcb7d200c,slogan.baby,available,17.99,54.99,high,low,6,namesilo,,,28/09/2026 18:37
 2ac757a4-33b4-4fa4-8c87-d6ae99511f0c,count.baby,available,17.99,54.99,high,low,5,namesilo,,,25/09/2026 23:32
 2a6f84ee-3e18-4e82-bf17-2a67f82eb81b,moistly.baby,available,1.8,81.98,low,low,7,namecheap,,,14/09/2026 10:31
 c372785d-5815-4270-ac90-a9f2b4713d6e,berkshire.baby,available,17.99,54.99,high,low,9,namesilo,,,23/09/2026 09:33
 4f0cca98-9747-4d97-8c95-91ed13718175,terminus.baby,available,1.8,81.98,high,low,8,namecheap,,,11/09/2026 11:48
 4bd0412f-805f-4a05-bee3-b96a8b7465ec,exaggerate.baby,available,17.99,54.99,high,low,10,namesilo,,,
+295e2507-40e7-4356-9664-f2604b8fdda2,suzanne.baby,available,1.18,51.8,medium,low,7,spaceship,,,28/09/2026 11:57
 6fca27a6-0794-45de-a823-5576bcb40e20,middleton.baby,available,17.99,54.99,high,low,9,namesilo,,,25/09/2026 09:23
 3e7a939f-37cf-45cc-816c-70d5b3868f1a,tomboyish.baby,available,1.8,81.98,medium,low,9,namecheap,,,21/08/2026 14:32
-1c0efedd-6a41-4798-93c0-d83c7bb8595d,father.baby,available,17.99,54.99,high,low,6,namesilo,,,25/09/2026 09:56
+1c0efedd-6a41-4798-93c0-d83c7bb8595d,father.baby,available,17.99,54.99,high,low,6,namesilo,,,29/09/2026 02:01
 c751019f-93dd-474a-9897-f51edef074a3,heard.baby,available,17.99,54.99,high,low,5,namesilo,,,24/09/2026 23:38
 184add30-066a-45b6-87c6-2a7eb8e8c8f4,brecht.baby,available,17.99,54.99,high,low,6,namesilo,,,23/09/2026 10:18
 1451e5f0-3659-4233-a728-d8fc14013fbf,milled.baby,available,1.8,81.98,medium,low,6,namecheap,,,24/08/2026 23:08
 a0f3e21d-c0fa-4598-b4b9-9c8281b30128,off.baby,available,17.99,54.99,high,low,3,namesilo,,,22/09/2026 14:54
 676c55eb-eebe-49e2-9ac2-b7bafcc5f4bb,senses.baby,available,17.99,54.99,high,low,6,namesilo,,,
 06d6c911-7ed4-49df-9f8d-9909f834a2c1,lips.baby,available,29.99,,high,low,4,name.com,,,
+96feff66-c351-4d58-b35b-7380ad412fe5,waist.baby,available,17.99,54.99,high,low,5,namesilo,,,28/09/2026 06:51
 2dcc67fa-3162-4da7-bcae-4f536b1c942a,tactful.baby,available,1.8,81.98,high,low,7,namecheap,,,22/08/2026 15:49
 20edb8e3-6ca4-4172-b8d6-ddf544aafe5f,loiter.baby,available,1.8,81.98,medium,low,6,namecheap,,,11/09/2026 08:23
 e12daf19-17f5-48c4-b0b7-4f619cd56c20,voter.baby,available,17.99,54.99,high,low,5,namesilo,,,
@@ -766,6 +829,7 @@ e12daf19-17f5-48c4-b0b7-4f619cd56c20,voter.baby,available,17.99,54.99,high,low,5
 a053a16e-9c4a-4307-8cd9-44758c113d35,amaze.baby,available,17.99,54.99,high,low,5,namesilo,,,21/09/2026 17:36
 347d7d22-dadb-48d1-aa67-0eb7d3ce3dae,ciliary.baby,available,1.8,81.98,medium,low,7,namecheap,,,12/08/2026 08:04
 4c682be6-a7ae-4ed6-896e-bb3b6faca501,sleety.baby,available,1.8,81.98,medium,low,6,namecheap,,,10/09/2026 10:41
+d56b619e-d365-43fa-9e7a-b073596ad6ec,englewood.baby,available,17.99,54.99,medium,low,9,namesilo,,,28/09/2026 16:54
 0740cea5-7496-4a6f-886a-c5002b51fb6b,impending.baby,available,1.8,81.98,high,low,9,namecheap,,,21/08/2026 20:59
 35d30bff-640a-4c35-b53d-772670742f45,akka.baby,available,17.99,54.99,high,low,4,namesilo,,,16/09/2026 22:23
 7b84af7c-d79e-4949-886c-72b1c5758b47,brennan.baby,available,17.99,54.99,medium,low,7,namesilo,,,25/09/2026 21:53
@@ -773,16 +837,18 @@ a053a16e-9c4a-4307-8cd9-44758c113d35,amaze.baby,available,17.99,54.99,high,low,5
 69eff82e-7629-4f9d-8462-2cc40008d13e,inviolable.baby,available,1.8,81.98,medium,low,10,namecheap,,,21/08/2026 23:02
 46561e0d-c579-4630-af2b-aa4aa87605f6,grabbed.baby,available,17.99,54.99,medium,low,7,namesilo,,,27/09/2026 03:19
 7b910e46-3069-44d3-bbd1-04ad9fdb9b88,knotty.baby,available,1.8,81.98,medium,low,6,namecheap,,,08/08/2026 08:12
-c02c020b-230c-4380-ae97-4b75a2cf542a,ash.baby,available,17.99,54.99,high,low,3,namesilo,,,24/09/2026 08:23
+c02c020b-230c-4380-ae97-4b75a2cf542a,ash.baby,available,17.99,54.99,high,medium,3,namesilo,,,28/09/2026 22:27
 61568507-485f-42c7-83fd-0f24e39c48db,showcase.baby,available,17.99,54.99,high,low,8,namesilo,,,25/09/2026 14:00
 ed6feb91-84aa-4f40-84bc-0d7aadf41852,bethel.baby,available,17.99,54.99,medium,low,6,namesilo,,,23/09/2026 11:13
 9790cc40-6b07-4ee7-9abd-f03dea8d8f2a,pergola.baby,available,17.99,54.99,medium,low,7,namesilo,,,20/09/2026 01:00
-aaecdd2a-5ad1-460f-92f8-099b2b6a2827,two.baby,resell,,,high,low,3,"GoDaddy.com, LLC",16/05/2026 08:38,16/05/2027 23:59,26/09/2026 09:49
+aaecdd2a-5ad1-460f-92f8-099b2b6a2827,two.baby,resell,,,high,low,3,"GoDaddy.com, LLC",16/05/2026 08:38,16/05/2027 23:59,28/09/2026 12:14
 449c002e-46e6-471e-811d-c212bbb74a7e,minus.baby,available,1.8,81.98,medium,low,5,namecheap,,,25/08/2026 00:55
 84664bf5-7e85-4ba5-a517-973a5d47809b,gamey.baby,available,1.8,81.98,medium,low,5,namecheap,,,18/08/2026 19:57
 355bfc31-0cb9-4158-9202-9bc7d3c7db6c,storytellers.baby,available,17.99,54.99,high,low,12,namesilo,,,20/09/2026 12:55
 fe5a5041-0d5d-444c-ad75-c5d1066ced7e,defining.baby,available,1.8,81.98,high,low,8,namecheap,,,10/09/2026 06:00
 15aa5508-9408-40a4-afcb-4d9b802a9ee6,pentatonic.baby,available,1.8,81.98,medium,low,10,namecheap,,,08/09/2026 15:05
+74f08b3b-b82a-46fb-b32a-d53af2589ee3,milano.baby,available,17.99,54.99,high,low,6,namesilo,,,28/09/2026 14:52
+585bae84-c9e1-4d48-9858-d86a4096f51e,sichuan.baby,available,1.18,51.8,medium,low,7,spaceship,,,28/09/2026 15:21
 ca5b1d00-a20b-4f09-8d3c-8629fac1bd0a,bishop.baby,available,17.99,54.99,high,low,6,namesilo,,,23/09/2026 21:47
 92fc0843-b27c-494f-83e3-9f8d2374207d,bahreini.baby,available,1.8,81.98,medium,low,8,namecheap,,,08/08/2026 08:41
 457f4602-799d-4822-a502-cf9b025880d7,invading.baby,available,1.8,81.98,medium,low,8,namecheap,,,22/08/2026 02:12
@@ -805,6 +871,7 @@ e834f20e-e93a-4b10-99a8-26cab7fb57ab,swimsuits.baby,available,17.99,54.99,medium
 86b0ad2d-1c04-4666-b557-86246888f268,rational.baby,available,1.8,81.98,high,low,8,namecheap,,,22/08/2026 07:50
 40ff91fb-34da-4010-b711-c4c57b5c6092,ingredient.baby,available,17.99,54.99,high,low,10,namesilo,,,24/09/2026 16:51
 b1e087de-93b9-4d6a-aab3-316641446867,reject.baby,available,1.8,81.98,high,low,6,namecheap,,,24/09/2026 20:15
+a70a8122-b2c0-4c4a-8239-527cf3effd17,ansi.baby,available,1.18,51.8,medium,low,4,spaceship,,,28/09/2026 11:47
 e607e5dd-1e83-47ff-a589-d7f5f20e1982,candescent.baby,available,1.8,81.98,medium,low,10,namecheap,,,11/08/2026 16:39
 98b7113e-6aae-4ba7-b45f-896c05ccdecf,reflexed.baby,available,1.8,81.98,high,medium,8,namecheap,,,09/09/2026 12:41
 ee599be9-7a29-455f-bfab-20cc034e42e2,retinal.baby,available,1.8,81.98,high,low,7,namecheap,,,09/09/2026 15:37
@@ -829,7 +896,7 @@ da13264b-0bfd-4800-8fa1-94171cefe83e,lockbox.baby,available,17.99,54.99,high,low
 cd5e77c6-5f75-47cb-b9c9-ffdc56360e7c,ovoid.baby,available,1.8,81.98,medium,low,5,namecheap,,,15/08/2026 18:50
 2750a1ba-c340-463c-aa8a-699b470cc508,asphodel.baby,available,17.99,54.99,medium,low,8,namesilo,,,20/09/2026 15:08
 67507cfd-08ba-4a32-a0d4-ece938fbb9ad,squawky.baby,available,1.8,81.98,low,low,7,namecheap,,,11/08/2026 12:26
-b41ba2bc-4bab-4c02-a305-275671e3480a,usual.baby,available,17.99,54.99,high,low,5,namesilo,,,
+b41ba2bc-4bab-4c02-a305-275671e3480a,usual.baby,available,17.99,54.99,high,low,5,namesilo,,,28/09/2026 10:03
 ce18bcd0-26e3-42d1-b3e7-6e678f1d4668,shorthand.baby,available,1.8,81.98,high,medium,9,namecheap,,,10/09/2026 06:49
 bf0e0453-e438-49fe-8f5a-335636ee3f1f,kat.baby,available,17.99,54.99,high,low,3,namesilo,,,17/09/2026 15:23
 6f7ae74d-d5c0-46f9-81f1-c982999bad55,ironical.baby,available,1.8,81.98,medium,low,8,namecheap,,,22/08/2026 10:06
@@ -838,6 +905,7 @@ bf0e0453-e438-49fe-8f5a-335636ee3f1f,kat.baby,available,17.99,54.99,high,low,3,n
 d7d942ba-2f16-4d4b-b2f7-4122a596bfe9,laurels.baby,available,1.8,81.98,high,low,7,namecheap,,,16/09/2026 22:48
 26a74084-32a8-4a08-a2b2-364113fecc73,poolside.baby,available,17.99,54.99,high,low,8,namesilo,,,
 9410d710-79f0-4346-a145-afe7ab6ec3f4,hostelry.baby,available,29.99,94.99,medium,low,8,name.com,,,21/09/2026 02:26
+fdda5ae4-30ae-4485-b4f7-4a24b494d0dc,novi.baby,available,1.18,51.8,high,low,4,spaceship,,,28/09/2026 21:12
 51186236-3bfc-4214-93cf-a23c29adffd5,stanch.baby,available,1.8,81.98,medium,low,6,namecheap,,,10/09/2026 19:26
 f9306864-3709-4e23-969b-4aae2ca3f072,bail.baby,available,1.8,81.98,high,low,4,namecheap,,,21/09/2026 18:59
 b9fdd407-81b6-4be2-a125-1e7b6e9c258d,benjamin.baby,resell,,,high,low,8,Dynadot Inc,18/07/2026 02:39,18/07/2027 23:59,26/09/2026 04:22
@@ -847,7 +915,7 @@ a301bea3-69a1-4f5d-afdd-71dc6b6d8b07,estranged.baby,available,1.8,81.98,medium,l
 a94443b6-e5f4-4487-abc3-d4534e26229b,localised.baby,available,1.8,81.98,medium,low,9,namecheap,,,24/08/2026 08:47
 f0846c47-193d-474e-9d86-0667f9ec3167,anorak.baby,available,17.99,54.99,high,low,6,namesilo,,,19/09/2026 11:41
 3cbac9c1-acbd-4766-a62a-94beeeec0bde,hitless.baby,available,1.8,81.98,medium,low,7,namecheap,,,20/08/2026 15:56
-e1802634-f7e6-44f6-8643-4daeb5c27e05,usually.baby,available,17.99,54.99,high,low,7,namesilo,,,
+e1802634-f7e6-44f6-8643-4daeb5c27e05,usually.baby,available,17.99,54.99,medium,low,7,namesilo,,,28/09/2026 14:12
 9ebb1f2a-fb22-4021-a3ab-45eea10ce121,peachy.baby,available,1.8,81.98,high,low,6,namecheap,,,08/08/2026 12:41
 1eeb240b-9f97-4de2-ad87-77f88e398fe6,maternally.baby,available,1.8,81.98,high,low,10,namecheap,,,25/08/2026 07:10
 cd74c7ba-eb3c-422d-9c51-5224ae834024,savage.baby,available,1.8,81.98,high,low,6,namecheap,,,08/08/2026 15:36
@@ -861,18 +929,20 @@ e9fa4925-f520-4747-b779-7628e3ea68fd,glasses.baby,available,17.99,54.99,high,low
 72d2215a-88d7-4b20-ae9b-cd0fbf24284f,abusive.baby,available,1.8,81.98,medium,low,7,namecheap,,,
 b75bb46b-424c-4bc5-9147-407b5a2cfbf4,recipient.baby,available,17.99,54.99,high,low,9,namesilo,,,
 e396e823-d7af-481c-8912-763f4c047308,cosmetic.baby,available,17.99,54.99,high,low,8,namesilo,,,24/09/2026 00:13
-e326f4be-280a-4468-9755-ee3f6667a788,again.baby,available,17.99,54.99,high,low,5,namesilo,,,
+e326f4be-280a-4468-9755-ee3f6667a788,again.baby,available,17.99,54.99,medium,low,5,namesilo,,,28/09/2026 11:49
 a0bfd1d0-29bb-4463-93ae-d71d700a63c7,wordless.baby,available,1.8,81.98,medium,low,8,namecheap,,,03/09/2026 11:53
 4a4e8b75-ec45-4e90-a09c-07af71e44f95,capitalist.baby,available,1.8,81.98,high,low,10,namecheap,,,11/08/2026 17:55
 d7ec20e4-ba33-4bd8-981c-ad26693e182d,scapular.baby,available,1.8,81.98,medium,low,8,namecheap,,,09/09/2026 22:51
 1070aafb-14d2-4c68-aa8a-90837342b193,frowning.baby,available,1.8,81.98,medium,low,8,namecheap,,,18/08/2026 16:40
+b4bd2a6e-c873-4bf5-a166-f57651a78283,sadie.baby,available,17.99,54.99,medium,low,5,namesilo,,,28/09/2026 16:29
 e8de5609-deb2-4557-ab5d-b7d120af9af8,switched.baby,available,17.99,54.99,medium,low,8,namesilo,,,27/09/2026 09:43
 0a868679-b796-4ca0-ba3e-666ab2eccfd1,terrific.baby,available,17.99,54.99,high,low,8,namesilo,,,25/09/2026 00:17
-f11b0d90-48c8-4807-b5f2-22b2b157066a,tons.baby,available,29.99,,high,low,4,name.com,,,
+f11b0d90-48c8-4807-b5f2-22b2b157066a,tons.baby,available,1.18,51.8,high,low,4,spaceship,,,28/09/2026 15:04
 68bbb28b-86f5-423f-9eb4-ddcaa54ebb23,toiling.baby,available,1.8,81.98,medium,low,7,namecheap,,,14/08/2026 20:00
 0f20a104-3edd-4021-a1df-95e3786e436f,uncover.baby,available,17.99,54.99,high,low,7,namesilo,,,
 51605cd8-e65c-4554-af02-91512992d938,arcus.baby,available,17.99,54.99,high,low,5,namesilo,,,20/09/2026 03:02
 d3f33153-088c-40c2-952d-335ec703ec82,jackie.baby,available,17.99,54.99,high,low,6,namesilo,,,25/09/2026 13:22
+9bc2d9ee-ae29-4954-924c-be038a919dd6,nod.baby,available,17.99,54.99,high,low,3,namesilo,,,28/09/2026 10:34
 b1c93bd4-54f5-49b1-a60b-9d83b170355a,believable.baby,available,1.8,81.98,medium,low,10,namecheap,,,09/08/2026 13:01
 1e9dde34-ba54-4894-91f6-6f18373d250d,baltimore.baby,available,17.99,54.99,high,low,9,namesilo,,,22/09/2026 00:19
 82ce059a-b2b2-476f-912d-8f080f0cad92,pennies.baby,available,17.99,54.99,medium,low,7,namesilo,,,
@@ -883,7 +953,8 @@ bda1a2e7-1e63-43dc-82db-62d055d2c25d,finished.baby,available,1.8,81.98,high,low,
 481eabf9-f857-4263-b0b5-81df8201f8e2,censor.baby,available,1.8,81.98,high,low,6,namecheap,,,22/09/2026 00:43
 ac3a439a-4995-4160-a4b2-1d94b9c943a4,weave.baby,available,29.99,,high,low,5,name.com,,,
 f82c40f3-b639-49e1-8e5e-89b78ea3375f,ranging.baby,available,1.8,81.98,high,medium,7,namecheap,,,09/09/2026 10:16
-ddaee926-093c-483d-b6f9-49f76d7b83b5,yearly.baby,available,17.99,54.99,high,low,6,namesilo,,,
+ddaee926-093c-483d-b6f9-49f76d7b83b5,yearly.baby,available,1.18,51.8,high,low,6,spaceship,,,28/09/2026 11:15
+fd932858-b2f0-4d1e-aa90-72af6a7fcd92,luftwaffe.baby,available,1.18,51.8,medium,low,9,spaceship,,,28/09/2026 09:53
 169f6de4-7863-4db3-b2e1-43a01be4c16c,brickle.baby,available,1.8,81.98,medium,low,7,namecheap,,,11/08/2026 03:49
 830373fa-a1a0-4709-a7a9-0fcb36a7093d,kirkland.baby,available,17.99,54.99,high,high,8,namesilo,,,
 97f648dc-1c52-486c-bce0-9ced52d16c39,friedrich.baby,available,1.8,81.98,high,low,9,namecheap,,,25/09/2026 18:50
@@ -900,21 +971,24 @@ b025a493-9f35-4728-8902-a4033f6b8374,batter.baby,available,17.99,54.99,high,low,
 c3ac07b1-26eb-4bd1-8684-10041b869fe8,chose.baby,available,17.99,54.99,high,low,5,namesilo,,,
 98f7239e-aeaf-488d-9b1f-44e7818ddbd0,character.baby,available,17.99,54.99,high,low,9,namesilo,,,24/09/2026 13:45
 0bf552f4-aa56-467d-bae5-de7bd8051f1a,ritenuto.baby,available,1.8,81.98,high,medium,8,namecheap,,,09/09/2026 09:55
-2be144fc-d080-40ae-9c78-fd40521ea664,chefs.baby,available,1.8,81.98,high,low,5,namecheap,,,20/09/2026 18:01
+2be144fc-d080-40ae-9c78-fd40521ea664,chefs.baby,available,1.18,51.8,medium,low,5,spaceship,,,28/09/2026 08:37
 e49f7121-f758-48e1-8c5f-e77abd1c0db4,redness.baby,available,1.8,81.98,high,medium,7,namecheap,,,09/09/2026 12:08
 e2ab2080-4f36-4558-a584-d6a9269a85b0,albacore.baby,available,1.8,81.98,high,low,8,namecheap,,,18/09/2026 02:20
 d08eaf03-c1d0-4edb-b97c-1bb971e0b607,lii.baby,available,1.8,81.98,medium,low,3,namecheap,,,
 de3f8272-5b4c-47d3-a230-3b26fc302ebf,slaveless.baby,available,1.8,81.98,medium,low,9,namecheap,,,18/08/2026 14:44
+50d92892-66e7-4239-b3ba-a25749d76caa,doorway.baby,available,1.18,51.8,high,low,7,spaceship,,,28/09/2026 18:58
 250e6b40-de2d-49c8-adf1-e1354f6b8ac5,deprave.baby,available,1.8,81.98,medium,low,7,namecheap,,,13/08/2026 02:24
-cb07f31c-a781-4b35-b997-9bf50013f9ab,hazard.baby,available,17.99,54.99,medium,low,6,namesilo,,,
-7d0720c9-57a8-45ce-befa-b40c736e30a9,optionally.baby,available,17.99,54.99,medium,low,10,namesilo,,,
+cb07f31c-a781-4b35-b997-9bf50013f9ab,hazard.baby,available,1.54,52.01,medium,low,6,porkbun,,,28/09/2026 18:59
+7d0720c9-57a8-45ce-befa-b40c736e30a9,optionally.baby,available,1.54,52.01,medium,low,10,porkbun,,,28/09/2026 16:29
 1e1f2011-00dc-454b-8206-93624c984501,panamanian.baby,available,1.8,81.98,high,low,10,namecheap,,,05/09/2026 00:34
 354de647-9bb8-47d8-805b-f64fb1360d20,evening.baby,available,17.99,54.99,high,low,7,namesilo,,,24/09/2026 15:27
 d95f99c1-7935-4fe5-9763-482f63c1ce6a,disturb.baby,available,17.99,54.99,high,low,7,namesilo,,,
+c8ae2489-bc22-4c70-ab79-412e460b6a06,emmett.baby,available,1.18,51.8,medium,low,6,spaceship,,,28/09/2026 08:01
 31f47b8c-8959-4485-b4f0-a1643b60e997,baksheesh.baby,available,17.99,54.99,medium,low,9,namesilo,,,21/09/2026 15:52
 69e747bf-bc44-4121-88f7-60c959325e76,dazzling.baby,resell,,,high,low,8,"GoDaddy.com, LLC",03/07/2026 10:36,03/07/2027 23:59,26/09/2026 05:26
 e5be611b-ddcd-4448-ba27-d808290164f7,staged.baby,available,1.8,81.98,high,low,6,namecheap,,,10/09/2026 18:02
 875a5986-76cd-41ee-b290-7ad93b36b8cd,birdsong.baby,available,1.8,81.98,high,low,8,namecheap,,,23/09/2026 20:37
+585bcc96-a858-47c5-b444-342c1fb5d14e,nam.baby,available,50.2,50.2,high,low,3,cloudflare,,,28/09/2026 16:26
 d9e1b749-2738-4787-a9aa-bc063029f229,vibrant.baby,available,1.8,81.98,high,low,7,namecheap,,,13/09/2026 05:05
 bffe4030-a87c-43d4-96ba-0bb29fff53f4,drive.baby,resell,,,high,medium,5,"Spaceship, Inc.",17/02/2026 14:15,17/02/2027 23:59,26/09/2026 05:41
 67070cc5-47f1-4bf8-b00e-62540dcd0899,cuttable.baby,available,1.8,81.98,medium,low,8,namecheap,,,12/08/2026 04:30
@@ -922,80 +996,6 @@ cd4fcd4b-80d3-4250-97f7-9e945f3b7fe5,restricted.baby,available,1.18,51.8,high,lo
 9f69f9dc-47ad-4a2a-8c8c-375b53de813f,donation.baby,available,17.99,54.99,high,low,8,namesilo,,,
 e971445d-0a1a-4135-a46a-c0d3904f3105,cockpit.baby,available,17.99,54.99,high,low,7,namesilo,,,
 c5121977-6bd3-471b-a109-d0a7fa7ff752,shackled.baby,available,1.8,81.98,medium,low,8,namecheap,,,18/08/2026 02:56
+cb095842-7cba-483e-b476-9b749f1cfe5b,arundel.baby,available,1.18,51.8,medium,low,7,spaceship,,,28/09/2026 12:04
 87c4b950-24f1-47f6-b49a-3de199562020,atheist.baby,available,17.99,54.99,medium,low,7,namesilo,,,22/09/2026 10:58
 ffba1d3f-5a35-4a83-93ac-a45667b96c58,spiffing.baby,available,1.8,81.98,high,medium,8,namecheap,,,10/09/2026 15:35
-b681ad74-1118-4715-a850-0e4bf8cb55a4,untwisted.baby,available,1.8,81.98,medium,low,9,namecheap,,,12/09/2026 21:56
-0003e8af-270a-4a8e-949b-4b95ff188dcf,scentless.baby,available,1.8,81.98,medium,low,9,namecheap,,,09/09/2026 23:00
-6417c1b3-bea0-4757-a519-8886ed57fa77,sneak.baby,available,17.99,54.99,high,low,5,namesilo,,,23/09/2026 12:44
-28cde9c3-43df-418c-9ad2-78954f1e8cd6,sinkable.baby,available,1.8,81.98,high,medium,8,namecheap,,,10/09/2026 08:30
-d1b43bf2-c2b3-4b12-ad30-bc514a4ec159,deputy.baby,available,17.99,54.99,high,low,6,namesilo,,,
-00f7b031-743f-4818-a0f0-af2e3226089a,furred.baby,available,1.8,81.98,medium,low,6,namecheap,,,18/08/2026 18:52
-3e79e596-fa67-485a-847f-9c588260e94b,runabout.baby,available,17.99,54.99,medium,low,9,namesilo,,,
-05d2e358-e627-42c7-a588-0920889567a9,tent.baby,available,1.8,81.98,high,low,4,namecheap,,,11/08/2026 15:59
-ab4a5e03-ff1d-43b6-9536-ef39f1fc0e65,inherited.baby,available,1.8,81.98,high,low,9,namecheap,,,18/08/2026 21:33
-8c178470-ef7f-422a-8f8a-2ec4bb018ee0,curie.baby,available,1.8,81.98,high,low,5,namecheap,,,12/08/2026 08:00
-225c8277-1427-499a-b91d-5c5bed903efd,intersection.baby,available,29.99,,high,low,12,name.com,,,
-b4f59094-e15e-472e-aef5-800f1aa8c77a,loyal.baby,available,17.99,54.99,high,low,5,namesilo,,,25/09/2026 15:30
-648a9169-beef-4a53-a039-42847b12223b,nations.baby,available,1.18,51.8,medium,low,7,spaceship,,,27/09/2026 22:54
-8fde8888-0147-45b7-9249-8d1f40dc1c86,kidney.baby,available,17.99,54.99,high,low,6,namesilo,,,
-9b330530-3e50-4d6a-a293-34f64999b6d5,exempt.baby,available,1.8,81.98,high,low,6,namecheap,,,17/08/2026 17:02
-666a930e-0f0a-4499-bda7-73ee3b564689,asahikawa.baby,available,1.8,81.98,medium,low,9,namecheap,,,20/09/2026 12:44
-04da43bf-0b71-44f4-8965-1ec50dd4be1c,neighbor.baby,available,17.99,54.99,high,low,8,namesilo,,,
-f780c713-3223-448c-a50a-288b2941064d,greens.baby,available,29.99,,high,low,6,name.com,,,
-f936f08d-198f-44d7-9280-a229eefed970,hectic.baby,available,1.8,81.98,high,low,6,namecheap,,,18/08/2026 03:09
-3cc52bc0-de4a-4f4e-ab70-88f2d3a2c407,alcohols.baby,available,1.8,81.98,medium,low,8,namecheap,,,20/09/2026 18:31
-cb9a0e0b-e812-4f10-a577-43a011b65863,military.baby,available,1.8,81.98,high,low,8,namecheap,,,25/09/2026 20:05
-060e034a-8438-4be3-8a0a-31e59b3a037f,chic.baby,resell,,,high,low,4,"Spaceship, Inc.",16/07/2026 20:41,16/07/2027 23:59,26/09/2026 04:54
-77234c4b-3bce-47c4-930f-12f30896f407,witches.baby,available,50.2,50.2,medium,low,7,cloudflare,,,27/09/2026 11:53
-62e2e74f-50c7-4292-af4c-b0eaeb4907d0,filar.baby,available,1.8,81.98,medium,low,5,namecheap,,,18/08/2026 04:10
-26ff4692-80d3-4523-8232-ab90ca86b69c,kent.baby,available,1.18,51.8,high,low,4,spaceship,,,27/09/2026 14:35
-a06bf355-bc48-48fc-a38b-d325ed1ecebe,grid.baby,available,1.8,81.98,high,medium,4,namecheap,,,24/09/2026 17:52
-ff93212f-6ef0-45d0-a65f-915f5d77d3d4,cycling.baby,available,1.8,81.98,high,low,7,namecheap,,,24/09/2026 20:45
-9a327dcf-4009-48b3-8ff9-67b6b56d8412,xml.baby,available,1.8,81.98,medium,low,3,namecheap,,,27/09/2026 02:25
-4f06dbc8-6162-4298-892a-05bdd8a41fb1,norman.baby,available,1.8,81.98,high,low,6,namecheap,,,03/09/2026 21:18
-30e978be-f481-49b5-af1d-109b7c7ed8fd,riders.baby,available,17.99,54.99,high,low,6,namesilo,,,20/09/2026 01:20
-1304baba-7647-42cc-8aca-a13d8a86888f,patrician.baby,available,1.8,81.98,medium,low,9,namecheap,,,06/08/2026 19:34
-50e6068e-d29c-4881-b242-5cd5e2b939af,croatian.baby,available,1.8,81.98,high,low,8,namecheap,,,13/08/2026 07:32
-bca61a60-0022-4256-8eb5-6326e33d7a95,photography.baby,resell,,,high,low,11,"Xiamen ChinaSource Internet Service Co., Ltd",29/11/2025 09:25,29/11/2026 23:59,27/09/2026 04:36
-b93381de-663e-4363-b166-b0944ed487cc,propulsive.baby,available,1.8,81.98,high,low,10,namecheap,,,09/09/2026 03:32
-051347e5-ab2e-4ddf-a8d3-c445f90ee7d4,observed.baby,available,17.99,54.99,high,low,8,namesilo,,,22/09/2026 09:25
-16970c03-8be7-4e53-88f7-a9c31e2d1a14,gaslit.baby,available,17.99,54.99,medium,low,6,namesilo,,,17/09/2026 16:25
-bbc253b9-3053-4da6-a043-907ae37ebad9,could.baby,available,29.99,,high,low,5,name.com,,,
-ecea4b9a-2fa4-45d9-94d7-03775562eb8d,aperitif.baby,available,17.99,54.99,high,low,8,namesilo,,,19/09/2026 16:32
-9971d91b-c63f-487c-b088-973455092585,decatur.baby,available,17.99,54.99,medium,low,7,namesilo,,,27/09/2026 03:44
-94a4a0c0-96e1-498e-8f53-ac22a81f0e41,hipaa.baby,available,17.99,54.99,medium,low,5,namesilo,,,
-d67dbce2-9291-4f66-b770-ccf0a30e7439,disabling.baby,available,1.8,81.98,medium,low,9,namecheap,,,13/08/2026 07:09
-4732c7d6-e0c7-4016-b45f-43dd42de528c,interwoven.baby,available,1.8,81.98,high,low,10,namecheap,,,22/08/2026 08:08
-00137234-597c-4a04-90d5-7b3bfd2f0163,ontogeny.baby,available,1.8,81.98,medium,low,8,namecheap,,,20/08/2026 20:29
-ec641ccf-9838-4d1a-a29b-5d7f7b99401a,octad.baby,available,1.8,81.98,medium,low,5,namecheap,,,
-58c8f235-1437-443b-84f7-103552cbd5c2,telly.baby,available,17.99,54.99,high,low,5,namesilo,,,24/09/2026 06:44
-d4d3514e-f953-4237-9639-6b8b093b2f18,afternoon.baby,available,17.99,54.99,high,low,9,namesilo,,,
-1cc5c9d9-57f6-4bdc-b91d-bcbbb4696997,behemoth.baby,available,1.8,81.98,high,low,8,namecheap,,,23/09/2026 03:24
-13d55908-a522-4baa-9c9d-73349966efd5,placable.baby,available,1.8,81.98,high,medium,8,namecheap,,,08/09/2026 20:13
-9db47052-64ad-49d0-9f68-ff3145a2bcd0,creature.baby,available,17.99,54.99,high,low,8,namesilo,,,22/09/2026 04:42
-68c72a94-62ae-4440-86aa-ca6dae57dc20,doris.baby,available,17.99,54.99,high,low,5,namesilo,,,27/09/2026 03:46
-6ec8713a-7f33-4023-8afc-87b6ecb04722,inhibited.baby,available,1.8,81.98,medium,low,9,namecheap,,,22/08/2026 05:07
-116715a0-6f19-4563-aca1-f065388d4210,auklet.baby,available,1.8,81.98,medium,low,6,namecheap,,,21/09/2026 04:08
-8a687d6f-ea3e-4cc4-8812-ef0921e59cac,razorbill.baby,available,17.99,54.99,medium,low,9,namesilo,,,18/09/2026 03:39
-ff5c21c3-88a3-4f94-9d19-34f0f19fd1cb,uml.baby,available,17.99,54.99,high,low,3,namesilo,,,
-6b1b4986-1be0-4670-a6bd-d367f2567ebb,accordion.baby,available,17.99,54.99,high,low,9,namesilo,,,16/09/2026 23:02
-7ea842f8-6180-4b2f-b885-d2c1a22697d9,sheridan.baby,available,17.99,54.99,high,low,8,namesilo,,,25/09/2026 10:21
-c4b2854c-7d7f-483c-a486-5422de8943b8,recessed.baby,available,1.8,81.98,medium,low,8,namecheap,,,13/08/2026 22:57
-5ec28916-cdf6-416e-8a63-6bfb9a938c6d,digestive.baby,available,1.8,81.98,high,low,9,namecheap,,,24/08/2026 15:24
-6d8f7399-4da8-4a69-a2a3-c702cfd6fbd4,announce.baby,available,1.8,81.98,high,low,8,namecheap,,,24/09/2026 08:21
-47b46b9b-1439-4bdd-906c-5aefad78c609,usance.baby,available,1.8,81.98,medium,low,6,namecheap,,,13/08/2026 12:25
-339491b1-d37a-441a-ae43-44dbe22def34,agile.baby,available,17.99,54.99,high,medium,5,namesilo,,,21/09/2026 23:00
-dec1c252-7c18-41d5-b472-d07ada92dfea,factious.baby,available,1.8,81.98,medium,low,8,namecheap,,,14/08/2026 12:34
-fab838e2-19fc-40f3-bda4-cf69abd623df,phosphorus.baby,available,17.99,54.99,medium,low,10,namesilo,,,20/09/2026 22:25
-deeeeedd-1e8d-4abd-84c2-27811a5db740,coffeepots.baby,available,1.8,81.98,medium,low,10,namecheap,,,21/09/2026 00:56
-5ef65161-5204-4282-b8e7-e439e2294cf4,somalian.baby,available,1.8,81.98,medium,low,8,namecheap,,,10/09/2026 13:56
-a020d0ec-57bd-43e5-94b8-b2466f484f3a,caliber.baby,available,1.8,81.98,high,low,7,namecheap,,,24/09/2026 11:44
-982719f4-077a-4b91-8b59-208b452f327d,anise.baby,available,29.99,94.99,high,low,5,name.com,,,19/09/2026 09:24
-542d02b7-4191-4800-99b1-9e5abc5f42cb,ungrateful.baby,available,1.8,81.98,medium,low,10,namecheap,,,11/09/2026 12:26
-03897d84-0fe6-4452-b0bb-ab823b1fa3fe,spiceberry.baby,available,17.99,54.99,medium,low,10,namesilo,,,20/09/2026 03:12
-e54b5c88-0cff-4e92-89fd-ec110213e9c0,unsheared.baby,available,1.8,81.98,low,low,9,namecheap,,,12/09/2026 19:44
-cde08a65-c2a6-4195-9740-e8c9ab060e40,behring.baby,available,17.99,54.99,high,low,7,namesilo,,,23/09/2026 04:03
-37a8fa4f-193c-4a8b-adaf-0f835d12c051,wesleyan.baby,available,1.8,81.98,high,low,8,namecheap,,,24/08/2026 22:00
-763c4a74-66a3-4471-aa22-a0d5029b2460,kingsley.baby,available,1.18,51.8,medium,low,8,spaceship,,,27/09/2026 20:56
-8702388b-254a-4739-a8a7-4e6f968ee1e8,harcourt.baby,available,17.99,54.99,medium,low,8,namesilo,,,27/09/2026 08:10
-669383de-7725-4b8f-9233-649872ec93b2,bathe.baby,available,17.99,54.99,high,low,5,namesilo,,,24/09/2026 08:25
